@@ -1,0 +1,63 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}
+Games
+{% endblock %}
+{% block content %}
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="/">Home</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+
+      <li class="nav-item">
+        <a class="nav-link" href="{{ url_for('show_all') }}">All Games</a>
+      </li>
+      
+      {% if current_user.is_authenticated %}
+      <li class="nav-item">
+        <a class="nav-link" href="{{url_for('my_list')}}">My Games <span class="badge badge-primary badge-pill">{{count}}</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{url_for('recommend') }}">Recommendations</a>
+      </li>
+      {%endif%} 
+
+      {{ wtf.quick_form(form, extra_classes = "form-inline my-2 my-lg-0") }}
+      
+    </ul>
+  
+   
+    {% if current_user.is_authenticated %}
+      <a href="{{url_for('logout')}}" class="btn btn-danger">Logout</a>
+    {% else %}
+    <a href="{{url_for('login') }}"  class="btn btn-secondary">
+      <i class="fa fa-github fa-fw"></i>
+      <span>Login</span>
+    </a>
+    {% endif %}
+    
+  </div>
+</nav>
+<div class="bg-image d-flex align-items-center justify-content-center" 
+     style="background-image: url('https://img.wallpapersafari.com/desktop/1920/1080/20/89/ts2gCU.jpg');
+            height: 100vh">
+    <div class="d-flex flex-column align-items-center justify-content-center">
+
+
+      <h1 class = "text-dark">Welcome, this is my SI507 final project</h1>
+      <h1 class = "text-dark">Please log in to add games and see recommendations</h1>
+      
+    </div>
+</div>
+
+
+
+{% endblock %}
+
+
+

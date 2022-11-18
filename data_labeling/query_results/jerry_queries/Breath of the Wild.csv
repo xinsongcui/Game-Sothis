@@ -1,13 +1,13 @@
 ,qid,docid,docno,rank,score,query,name
-0,1,0,d0,0,10.044277818794853,Breath of the Wild,The Legend of Zelda: Breath of the Wild
-1,1,99,d99,1,4.685992037099054,Breath of the Wild,Firewatch
-2,1,34,d34,2,4.6163732047323265,Breath of the Wild,Dead Cells
-0,1,0,d0,0,5.863542300859687,Breath of the Wild,The Legend of Zelda: Breath of the Wild
-1,1,99,d99,1,2.7355388836027528,Breath of the Wild,Firewatch
-2,1,34,d34,2,2.6948975377655318,Breath of the Wild,Dead Cells
-0,1,0,d0,0,4.748102847984125,Breath of the Wild,The Legend of Zelda: Breath of the Wild
-1,1,34,d34,1,2.3749619840187286,Breath of the Wild,Dead Cells
-2,1,99,d99,2,1.9830097014053358,Breath of the Wild,Firewatch
-0,1,0,d0,0,9.684948188864668,Breath of the Wild,The Legend of Zelda: Breath of the Wild
-1,1,99,d99,1,5.061739077149539,Breath of the Wild,Firewatch
-2,1,34,d34,2,3.5509311893087987,Breath of the Wild,Dead Cells
+0,1,0,d0,0,10.044277818794853,Breath of the Wild,The Legend of Zelda: Breath of the Wild,2
+1,1,99,d99,1,4.685992037099054,Breath of the Wild,Firewatch,1
+2,1,34,d34,2,4.6163732047323265,Breath of the Wild,Dead Cells,1
+0,1,0,d0,0,5.863542300859687,Breath of the Wild,The Legend of Zelda: Breath of the Wild,2
+1,1,99,d99,1,2.7355388836027528,Breath of the Wild,Firewatch,1
+2,1,34,d34,2,2.6948975377655318,Breath of the Wild,Dead Cells,1
+0,1,0,d0,0,4.748102847984125,Breath of the Wild,The Legend of Zelda: Breath of the Wild,2
+1,1,34,d34,1,2.3749619840187286,Breath of the Wild,Dead Cells,1
+2,1,99,d99,2,1.9830097014053358,Breath of the Wild,Firewatch,1
+0,1,0,d0,0,9.684948188864668,Breath of the Wild,The Legend of Zelda: Breath of the Wild,2
+1,1,99,d99,1,5.061739077149539,Breath of the Wild,Firewatch,1
+2,1,34,d34,2,3.5509311893087987,Breath of the Wild,Dead Cells,1

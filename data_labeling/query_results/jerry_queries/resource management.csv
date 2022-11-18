@@ -1,5 +1,20 @@
-,qid,docid,docno,rank,score,query,name
-0,1,25,d25,0,5.244983693961739,resource management,Animal Crossing: New Horizons
-0,1,25,d25,0,3.1476440957143477,resource management,Animal Crossing: New Horizons
-0,1,25,d25,0,2.794345482188682,resource management,Animal Crossing: New Horizons
-0,1,25,d25,0,5.357667652032431,resource management,Animal Crossing: New Horizons
+name,search_score_gt
+Animal Crossing: New Horizons,2
+Dicey Dungeons,2
+Two Point Campus,2
+SteamWorld Heist: Ultimate Edition,2
+Fire Emblem: Three Houses,2
+Into the Breach,2
+Stardew Valley,2
+The Stanley Parable: Ultra Deluxe,1
+What Remains of Edith Finch,1
+Firewatch,1
+Gone Home,1
+13 Sentinels: Aegis Rim,1
+A Short Hike,1
+Kentucky Route Zero: TV Edition,1
+Chicory: A Colorful Tale,1
+Florence,1
+OneShot: World Machine Edition,1
+The House in Fata Morgana - Dreams of the Revenants Edition -,1
+The Legend of Zelda: Breath of the Wild,1

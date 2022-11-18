@@ -1,21 +1,18 @@
-,qid,docid,docno,rank,score,query,name
-0,1,0,d0,0,20.286568057678572,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Breath of the Wild
-1,1,79,d79,1,14.568145332145315,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Link's Awakening
-2,1,99,d99,2,4.685992037099054,The Legend of Zelda Breath of the Wild,Firewatch
-3,1,34,d34,3,4.6163732047323265,The Legend of Zelda Breath of the Wild,Dead Cells
-4,1,51,d51,4,3.2730441542676796,The Legend of Zelda Breath of the Wild,Tunic
-0,1,0,d0,0,11.822982999359315,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Breath of the Wild
-1,1,79,d79,1,8.4764243317817,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Link's Awakening
-2,1,99,d99,2,2.7355388836027528,The Legend of Zelda Breath of the Wild,Firewatch
-3,1,34,d34,3,2.6948975377655318,The Legend of Zelda Breath of the Wild,Dead Cells
-4,1,51,d51,4,1.8974596385927778,The Legend of Zelda Breath of the Wild,Tunic
-0,1,0,d0,0,9.339910984780776,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Breath of the Wild
-1,1,79,d79,1,7.0810637153911244,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Link's Awakening
-2,1,34,d34,2,2.3749619840187286,The Legend of Zelda Breath of the Wild,Dead Cells
-3,1,99,d99,3,1.9830097014053358,The Legend of Zelda Breath of the Wild,Firewatch
-4,1,51,d51,4,1.3460428104814655,The Legend of Zelda Breath of the Wild,Tunic
-0,1,0,d0,0,19.822706945555446,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Breath of the Wild
-1,1,79,d79,1,13.71561769998561,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Link's Awakening
-2,1,99,d99,2,5.061739077149539,The Legend of Zelda Breath of the Wild,Firewatch
-3,1,34,d34,3,3.5509311893087987,The Legend of Zelda Breath of the Wild,Dead Cells
-4,1,51,d51,4,3.0137291042401078,The Legend of Zelda Breath of the Wild,Tunic
+,qid,docid,docno,rank,score,query,name,search_score_gt
+0,1,0,d0,0,20.286568057678572,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Breath of the Wild,2
+1,1,79,d79,1,14.568145332145315,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Link's Awakening,1
+2,1,99,d99,2,4.685992037099054,The Legend of Zelda Breath of the Wild,Firewatch,1
+3,1,34,d34,3,4.6163732047323265,The Legend of Zelda Breath of the Wild,Dead Cells,1
+4,1,51,d51,4,3.2730441542676796,The Legend of Zelda Breath of the Wild,Tunic,1
+1,1,79,d79,1,8.4764243317817,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Link's Awakening,1
+2,1,99,d99,2,2.7355388836027528,The Legend of Zelda Breath of the Wild,Firewatch,1
+3,1,34,d34,3,2.6948975377655318,The Legend of Zelda Breath of the Wild,Dead Cells,1
+4,1,51,d51,4,1.8974596385927778,The Legend of Zelda Breath of the Wild,Tunic,1
+1,1,79,d79,1,7.0810637153911244,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Link's Awakening,1
+2,1,34,d34,2,2.3749619840187286,The Legend of Zelda Breath of the Wild,Dead Cells,1
+3,1,99,d99,3,1.9830097014053358,The Legend of Zelda Breath of the Wild,Firewatch,1
+4,1,51,d51,4,1.3460428104814655,The Legend of Zelda Breath of the Wild,Tunic,1
+1,1,79,d79,1,13.71561769998561,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Link's Awakening,1
+2,1,99,d99,2,5.061739077149539,The Legend of Zelda Breath of the Wild,Firewatch,1
+3,1,34,d34,3,3.5509311893087987,The Legend of Zelda Breath of the Wild,Dead Cells,1
+4,1,51,d51,4,3.0137291042401078,The Legend of Zelda Breath of the Wild,Tunic,1

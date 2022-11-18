@@ -1,9 +1,51 @@
-,qid,docid,docno,rank,score,query,name
-0,1,4,d4,0,6.960273649662168,most popular,Tetris Effect: Connected
-1,1,39,d39,1,4.3778880912256595,most popular,NieR: Automata - The End of YoRHa Edition
-0,1,4,d4,0,4.063194956036163,most popular,Tetris Effect: Connected
-1,1,39,d39,1,2.555677219849291,most popular,NieR: Automata - The End of YoRHa Edition
-0,1,4,d4,0,3.842921116959747,most popular,Tetris Effect: Connected
-1,1,39,d39,1,2.235820823317542,most popular,NieR: Automata - The End of YoRHa Edition
-0,1,4,d4,0,5.120355967138209,most popular,Tetris Effect: Connected
-1,1,39,d39,1,3.38825811188285,most popular,NieR: Automata - The End of YoRHa Edition
+name,search_score_gt
+Hollow Knight,2
+Hades,2
+Super Mario Odyssey,2
+Astral Chain,2
+Fire Emblem: Three Houses,2
+Xenoblade Chronicles: Definitive Edition,2
+Monster Hunter Rise,2
+The Legend of Zelda: Breath of the Wild,2
+Bayonetta + Bayonetta 2,2
+Ori and the Will of the Wisps,2
+Super Mario 3D World + Bowser's Fury,2
+Metroid Dread,2
+Mario Kart 8 Deluxe,2
+Stardew Valley,2
+Celeste,2
+Super Smash Bros. Ultimate,2
+Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,2
+The House in Fata Morgana - Dreams of the Revenants Edition -,2
+13 Sentinels: Aegis Rim,2
+Xenoblade Chronicles 3,2
+SteamWorld Dig 2,2
+Bayonetta 2,2
+INSIDE,2
+TowerFall,2
+Mark of the Ninja: Remastered,2
+Nuclear Throne,1
+Super Mario Maker 2,1
+Ori and the Blind Forest: Definitive Edition,1
+A Short Hike,1
+Streets of Rage 4: Mr. X Nightmare,1
+The Forgotten City,1
+Cuphead,1
+Divinity: Original Sin II - Definitive Edition,1
+The Legend of Zelda: Link's Awakening,1
+Streets of Rage 4,1
+Deemo,1
+Dead Cells,1
+Okami HD,1
+Persona 5 Royal,1
+Shovel Knight: Treasure Trove,1
+Axiom Verge,1
+SteamWorld Heist: Ultimate Edition,1
+Undertale,1
+Guacamelee! 2,1
+Super Mega Baseball 2: Ultimate Edition,1
+Quake Remastered,1
+DUSK,1
+Teenage Mutant Ninja Turtles: Shredder's Revenge,1
+Sonic Mania Plus,1
+Velocity 2X,1

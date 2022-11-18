@@ -1,53 +1,14 @@
-,qid,docid,docno,rank,score,query,name
-0,1,70,d70,0,4.891870943121068,Puzzle,FILMECHANISM
-1,1,12,d12,1,4.180532988951039,Puzzle,A Monster's Expedition
-2,1,3,d3,2,4.125874273038657,Puzzle,Portal Companion Collection
-3,1,92,d92,3,4.021019517860273,Puzzle,Grindstone
-4,1,83,d83,4,3.889025141687402,Puzzle,Trine 2: Complete Story
-5,1,97,d97,5,3.750695908557101,Puzzle,Velocity 2X
-6,1,4,d4,6,3.5408890710124363,Puzzle,Tetris Effect: Connected
-7,1,32,d32,7,3.2275952975723827,Puzzle,Chicory: A Colorful Tale
-8,1,15,d15,8,3.0609320771290136,Puzzle,OneShot: World Machine Edition
-9,1,90,d90,9,2.564370860543058,Puzzle,Axiom Verge
-10,1,8,d8,10,2.3254478119949,Puzzle,Ori and the Will of the Wisps
-11,1,51,d51,11,1.838589890255601,Puzzle,Tunic
-12,1,0,d0,12,1.7765981816741274,Puzzle,The Legend of Zelda: Breath of the Wild
-0,1,70,d70,0,3.087307143519266,Puzzle,FILMECHANISM
-1,1,12,d12,1,2.638374869364796,Puzzle,A Monster's Expedition
-2,1,3,d3,2,2.603879224231479,Puzzle,Portal Companion Collection
-3,1,92,d92,3,2.5377043724297565,Puzzle,Grindstone
-4,1,83,d83,4,2.4544014428960352,Puzzle,Trine 2: Complete Story
-5,1,97,d97,5,2.367100523765849,Puzzle,Velocity 2X
-6,1,4,d4,6,2.2346893960312393,Puzzle,Tetris Effect: Connected
-7,1,32,d32,7,2.0369666604955228,Puzzle,Chicory: A Colorful Tale
-8,1,15,d15,8,1.9317838874789361,Puzzle,OneShot: World Machine Edition
-9,1,90,d90,9,1.6183992931211908,Puzzle,Axiom Verge
-10,1,8,d8,10,1.4676126425511506,Puzzle,Ori and the Will of the Wisps
-11,1,51,d51,11,1.1603518915744089,Puzzle,Tunic
-12,1,0,d0,12,1.1212283237272895,Puzzle,The Legend of Zelda: Breath of the Wild
-0,1,70,d70,0,3.0781482638211424,Puzzle,FILMECHANISM
-1,1,12,d12,1,2.199775097969588,Puzzle,A Monster's Expedition
-2,1,3,d3,2,2.1631022544168124,Puzzle,Portal Companion Collection
-3,1,92,d92,3,2.0538693201647495,Puzzle,Grindstone
-4,1,83,d83,4,1.960753867655292,Puzzle,Trine 2: Complete Story
-5,1,97,d97,5,1.8340525298113013,Puzzle,Velocity 2X
-6,1,4,d4,6,1.6693868496017488,Puzzle,Tetris Effect: Connected
-7,1,32,d32,7,1.4529078396915558,Puzzle,Chicory: A Colorful Tale
-8,1,15,d15,8,1.3498268408627863,Puzzle,OneShot: World Machine Edition
-9,1,90,d90,9,1.074608313490657,Puzzle,Axiom Verge
-10,1,8,d8,10,0.9534468822270166,Puzzle,Ori and the Will of the Wisps
-11,1,51,d51,11,0.7166380710767565,Puzzle,Tunic
-12,1,0,d0,12,0.6866604125567998,Puzzle,The Legend of Zelda: Breath of the Wild
-0,1,70,d70,0,3.607182188016691,Puzzle,FILMECHANISM
-1,1,12,d12,1,3.1417016933869055,Puzzle,A Monster's Expedition
-2,1,3,d3,2,3.116316033977292,Puzzle,Portal Companion Collection
-3,1,92,d92,3,3.037218427353751,Puzzle,Grindstone
-4,1,83,d83,4,2.9654542146234353,Puzzle,Trine 2: Complete Story
-5,1,97,d97,5,2.860924221373403,Puzzle,Velocity 2X
-6,1,4,d4,6,2.7122130954111694,Puzzle,Tetris Effect: Connected
-7,1,32,d32,7,2.4922134729760783,Puzzle,Chicory: A Colorful Tale
-8,1,15,d15,8,2.3767992712698747,Puzzle,OneShot: World Machine Edition
-9,1,90,d90,9,2.0326059769044256,Puzzle,Axiom Verge
-10,1,8,d8,10,1.8645981949383812,Puzzle,Ori and the Will of the Wisps
-11,1,51,d51,11,1.5131441053022103,Puzzle,Tunic
-12,1,0,d0,12,1.4673071546209868,Puzzle,The Legend of Zelda: Breath of the Wild
+,qid,docid,docno,rank,score,query,name,search_score_gt
+0,1,70,d70,0,4.891870943121068,Puzzle,FILMECHANISM,2
+1,1,12,d12,1,4.180532988951039,Puzzle,A Monster's Expedition,2
+2,1,3,d3,2,4.125874273038657,Puzzle,Portal Companion Collection,2
+3,1,92,d92,3,4.021019517860273,Puzzle,Grindstone,2
+4,1,83,d83,4,3.889025141687402,Puzzle,Trine 2: Complete Story,2
+5,1,97,d97,5,3.750695908557101,Puzzle,Velocity 2X,1
+6,1,4,d4,6,3.5408890710124363,Puzzle,Tetris Effect: Connected,2
+7,1,32,d32,7,3.2275952975723827,Puzzle,Chicory: A Colorful Tale,2
+8,1,15,d15,8,3.0609320771290136,Puzzle,OneShot: World Machine Edition,1
+9,1,90,d90,9,2.564370860543058,Puzzle,Axiom Verge,2
+10,1,8,d8,10,2.3254478119949,Puzzle,Ori and the Will of the Wisps,2
+11,1,51,d51,11,1.838589890255601,Puzzle,Tunic,2
+12,1,0,d0,12,1.7765981816741274,Puzzle,The Legend of Zelda: Breath of the Wild,2

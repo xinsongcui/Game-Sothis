@@ -1,45 +1,45 @@
 ,qid,docid,docno,rank,score,query,name
-0,1,98,d98,0,4.293174926555451,classic,Streets of Rage 4
-1,1,13,d13,1,3.946423357551646,classic,Spelunky 2
-2,1,10,d10,2,3.83029041042134,classic,Super Smash Bros. Ultimate
-3,1,50,d50,3,3.4269102816315837,classic,Hyper Light Drifter
-4,1,66,d66,4,3.4269102816315837,classic,Cuphead in the Delicious Last Course
-5,1,73,d73,5,3.296714935511272,classic,Cuphead
-6,1,79,d79,6,3.176050275249226,classic,The Legend of Zelda: Link's Awakening
-7,1,43,d43,7,2.8153848490936073,classic,TowerFall
-8,1,24,d24,8,2.5911940573389804,classic,Shovel Knight: Treasure Trove
-9,1,75,d75,9,2.5039601216175202,classic,Dragon Ball FighterZ
-10,1,51,d51,10,2.01856065375275,classic,Tunic
-0,1,98,d98,0,2.638165192610966,classic,Streets of Rage 4
-1,1,13,d13,1,2.425085610372038,classic,Spelunky 2
-2,1,10,d10,2,2.353721665488404,classic,Super Smash Bros. Ultimate
-3,1,50,d50,3,2.105843711906417,classic,Hyper Light Drifter
-4,1,66,d66,4,2.105843711906417,classic,Cuphead in the Delicious Last Course
-5,1,73,d73,5,2.0258383927078056,classic,Cuphead
-6,1,79,d79,6,1.9516897003932894,classic,The Legend of Zelda: Link's Awakening
-7,1,43,d43,7,1.7300600231172762,classic,TowerFall
-8,1,24,d24,8,1.592294301144822,classic,Shovel Knight: Treasure Trove
-9,1,75,d75,9,1.5386888607022948,classic,Dragon Ball FighterZ
-10,1,51,d51,10,1.2404098474918643,classic,Tunic
-0,1,98,d98,0,2.550832529893966,classic,Streets of Rage 4
-1,1,13,d13,1,2.227025349343371,classic,Spelunky 2
-2,1,10,d10,2,2.128960042148725,classic,Super Smash Bros. Ultimate
-3,1,50,d50,3,1.8215411362564173,classic,Hyper Light Drifter
-4,1,66,d66,4,1.8215411362564173,classic,Cuphead in the Delicious Last Course
-5,1,73,d73,5,1.7303697632836836,classic,Cuphead
-6,1,79,d79,6,1.6484571091373836,classic,The Legend of Zelda: Link's Awakening
-7,1,43,d43,7,1.414956259520083,classic,TowerFall
-8,1,24,d24,8,1.2758788888973878,classic,Shovel Knight: Treasure Trove
-9,1,75,d75,9,1.2225867062198894,classic,Dragon Ball FighterZ
-10,1,51,d51,10,0.9294479987907618,classic,Tunic
-0,1,98,d98,0,2.670394891616497,classic,Streets of Rage 4
-1,1,13,d13,1,2.465603859073834,classic,Spelunky 2
-2,1,10,d10,2,2.397929113082135,classic,Super Smash Bros. Ultimate
-3,1,50,d50,3,2.167949636218811,classic,Hyper Light Drifter
-4,1,66,d66,4,2.167949636218811,classic,Cuphead in the Delicious Last Course
-5,1,73,d73,5,2.0944671419026406,classic,Cuphead
-6,1,79,d79,6,2.0263920390680523,classic,The Legend of Zelda: Link's Awakening
-7,1,43,d43,7,1.821959941125242,classic,TowerFall
-8,1,24,d24,8,1.6933837813965493,classic,Shovel Knight: Treasure Trove
-9,1,75,d75,9,1.6429151294946296,classic,Dragon Ball FighterZ
-10,1,51,d51,10,1.3563317122628205,classic,Tunic
+0,1,98,d98,0,4.293174926555451,classic,Streets of Rage 4,2
+1,1,13,d13,1,3.946423357551646,classic,Spelunky 2,2
+2,1,10,d10,2,3.83029041042134,classic,Super Smash Bros. Ultimate,2
+3,1,50,d50,3,3.4269102816315837,classic,Hyper Light Drifter,2
+4,1,66,d66,4,3.4269102816315837,classic,Cuphead in the Delicious Last Course,2
+5,1,73,d73,5,3.296714935511272,classic,Cuphead,2
+6,1,79,d79,6,3.176050275249226,classic,The Legend of Zelda: Link's Awakening,2
+7,1,43,d43,7,2.8153848490936073,classic,TowerFall,1
+8,1,24,d24,8,2.5911940573389804,classic,Shovel Knight: Treasure Trove,1
+9,1,75,d75,9,2.5039601216175202,classic,Dragon Ball FighterZ,2
+10,1,51,d51,10,2.01856065375275,classic,Tunic,0
+0,1,98,d98,0,2.638165192610966,classic,Streets of Rage 4,2
+1,1,13,d13,1,2.425085610372038,classic,Spelunky 2,2
+2,1,10,d10,2,2.353721665488404,classic,Super Smash Bros. Ultimate,2
+3,1,50,d50,3,2.105843711906417,classic,Hyper Light Drifter,2
+4,1,66,d66,4,2.105843711906417,classic,Cuphead in the Delicious Last Course,2
+5,1,73,d73,5,2.0258383927078056,classic,Cuphead,2
+6,1,79,d79,6,1.9516897003932894,classic,The Legend of Zelda: Link's Awakening,2
+7,1,43,d43,7,1.7300600231172762,classic,TowerFall,1
+8,1,24,d24,8,1.592294301144822,classic,Shovel Knight: Treasure Trove,1
+9,1,75,d75,9,1.5386888607022948,classic,Dragon Ball FighterZ,2
+10,1,51,d51,10,1.2404098474918643,classic,Tunic,0
+0,1,98,d98,0,2.550832529893966,classic,Streets of Rage 4,2
+1,1,13,d13,1,2.227025349343371,classic,Spelunky 2,2
+2,1,10,d10,2,2.128960042148725,classic,Super Smash Bros. Ultimate,2
+3,1,50,d50,3,1.8215411362564173,classic,Hyper Light Drifter,2
+4,1,66,d66,4,1.8215411362564173,classic,Cuphead in the Delicious Last Course,2
+5,1,73,d73,5,1.7303697632836836,classic,Cuphead,2
+6,1,79,d79,6,1.6484571091373836,classic,The Legend of Zelda: Link's Awakening,2
+7,1,43,d43,7,1.414956259520083,classic,TowerFall,2
+8,1,24,d24,8,1.2758788888973878,classic,Shovel Knight: Treasure Trove,1
+9,1,75,d75,9,1.2225867062198894,classic,Dragon Ball FighterZ,2
+10,1,51,d51,10,0.9294479987907618,classic,Tunic,0
+0,1,98,d98,0,2.670394891616497,classic,Streets of Rage 4,2
+1,1,13,d13,1,2.465603859073834,classic,Spelunky 2,2
+2,1,10,d10,2,2.397929113082135,classic,Super Smash Bros. Ultimate,2
+3,1,50,d50,3,2.167949636218811,classic,Hyper Light Drifter,2
+4,1,66,d66,4,2.167949636218811,classic,Cuphead in the Delicious Last Course,2
+5,1,73,d73,5,2.0944671419026406,classic,Cuphead,2
+6,1,79,d79,6,2.0263920390680523,classic,The Legend of Zelda: Link's Awakening,2
+7,1,43,d43,7,1.821959941125242,classic,TowerFall,1
+8,1,24,d24,8,1.6933837813965493,classic,Shovel Knight: Treasure Trove,1
+9,1,75,d75,9,1.6429151294946296,classic,Dragon Ball FighterZ,2
+10,1,51,d51,10,1.3563317122628205,classic,Tunic,0

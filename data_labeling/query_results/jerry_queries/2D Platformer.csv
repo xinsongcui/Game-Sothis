@@ -1,65 +1,66 @@
-,qid,docid,docno,rank,score,query,name
-0,1,79,d79,0,7.011972498715505,2D Platformer,The Legend of Zelda: Link's Awakening
-1,1,34,d34,1,6.924145051446873,2D Platformer,Dead Cells
-2,1,30,d30,2,5.13443364318928,2D Platformer,Hollow Knight
-3,1,54,d54,3,4.9152438000569765,2D Platformer,Fez
-4,1,11,d11,4,4.873563681151325,2D Platformer,Celeste
-5,1,94,d94,5,4.600486336985779,2D Platformer,Owlboy
-6,1,97,d97,6,4.5456043350747715,2D Platformer,Velocity 2X
-7,1,64,d64,7,4.259527165141813,2D Platformer,SteamWorld Dig 2
-8,1,27,d27,8,3.9931731292623307,2D Platformer,Bastion
-9,1,77,d77,9,3.6389938357563434,2D Platformer,Guacamelee! 2
-10,1,70,d70,10,3.4847285431265935,2D Platformer,FILMECHANISM
-11,1,83,d83,11,2.7909228224512157,2D Platformer,Trine 2: Complete Story
-12,1,75,d75,12,2.7640777048601066,2D Platformer,Dragon Ball FighterZ
-13,1,59,d59,13,2.5551692212265467,2D Platformer,Metroid Dread
-14,1,91,d91,14,1.7314867066095236,2D Platformer,OlliOlli World
-15,1,53,d53,15,1.0375513881653164,2D Platformer,13 Sentinels: Aegis Rim
-0,1,79,d79,0,4.211525535997703,2D Platformer,The Legend of Zelda: Link's Awakening
-1,1,34,d34,1,4.158774682083046,2D Platformer,Dead Cells
-2,1,30,d30,2,3.083839590805376,2D Platformer,Hollow Knight
-3,1,54,d54,3,2.952189955591871,2D Platformer,Fez
-4,1,11,d11,4,2.9271560745909504,2D Platformer,Celeste
-5,1,94,d94,5,2.7631405699000364,2D Platformer,Owlboy
-6,1,97,d97,6,2.730177384069341,2D Platformer,Velocity 2X
-7,1,64,d64,7,2.5583539340116985,2D Platformer,SteamWorld Dig 2
-8,1,27,d27,8,2.3983765775791146,2D Platformer,Bastion
-9,1,77,d77,9,2.1856496823730454,2D Platformer,Guacamelee! 2
-10,1,70,d70,10,2.0929949808112003,2D Platformer,FILMECHANISM
-11,1,83,d83,11,1.6762819217995013,2D Platformer,Trine 2: Complete Story
-12,1,75,d75,12,1.6601582278927542,2D Platformer,Dragon Ball FighterZ
-13,1,59,d59,13,1.5346837749238549,2D Platformer,Metroid Dread
-14,1,91,d91,14,1.0399642156985642,2D Platformer,OlliOlli World
-15,1,53,d53,15,0.6231733177745004,2D Platformer,13 Sentinels: Aegis Rim
-0,1,34,d34,0,3.5396631713256896,2D Platformer,Dead Cells
-1,1,79,d79,1,3.526363793537869,2D Platformer,The Legend of Zelda: Link's Awakening
-2,1,30,d30,2,3.049380494977431,2D Platformer,Hollow Knight
-3,1,54,d54,3,2.915824293423418,2D Platformer,Fez
-4,1,11,d11,4,2.8672379482136927,2D Platformer,Celeste
-5,1,94,d94,5,2.586552957725329,2D Platformer,Owlboy
-6,1,97,d97,6,2.5306163464116724,2D Platformer,Velocity 2X
-7,1,64,d64,7,2.294660364061521,2D Platformer,SteamWorld Dig 2
-8,1,27,d27,8,2.093688171607087,2D Platformer,Bastion
-9,1,77,d77,9,1.8830107169349681,2D Platformer,Guacamelee! 2
-10,1,70,d70,10,1.7495428817187533,2D Platformer,FILMECHANISM
-11,1,83,d83,11,1.325959410289577,2D Platformer,Trine 2: Complete Story
-12,1,75,d75,12,1.310140487123405,2D Platformer,Dragon Ball FighterZ
-13,1,59,d59,13,1.1876973496915089,2D Platformer,Metroid Dread
-14,1,91,d91,14,0.6989999806434897,2D Platformer,OlliOlli World
-15,1,53,d53,15,0.22154617874255256,2D Platformer,13 Sentinels: Aegis Rim
-0,1,79,d79,0,4.553965680149709,2D Platformer,The Legend of Zelda: Link's Awakening
-1,1,34,d34,1,4.520816624790502,2D Platformer,Dead Cells
-2,1,30,d30,2,3.20155847348995,2D Platformer,Hollow Knight
-3,1,54,d54,3,3.1255386307552726,2D Platformer,Fez
-4,1,11,d11,4,3.0968191039160775,2D Platformer,Celeste
-5,1,94,d94,5,2.91935376797988,2D Platformer,Owlboy
-6,1,97,d97,6,2.881563984338447,2D Platformer,Velocity 2X
-7,1,64,d64,7,2.7129533417223053,2D Platformer,SteamWorld Dig 2
-8,1,27,d27,8,2.5573253635682027,2D Platformer,Bastion
-9,1,77,d77,9,2.3821175051753136,2D Platformer,Guacamelee! 2
-10,1,70,d70,10,2.2647683551945317,2D Platformer,FILMECHANISM
-11,1,83,d83,11,1.8619240255064002,2D Platformer,Trine 2: Complete Story
-12,1,75,d75,12,1.8460838206209504,2D Platformer,Dragon Ball FighterZ
-13,1,59,d59,13,1.7219299188959896,2D Platformer,Metroid Dread
-14,1,91,d91,14,1.2133223820085806,2D Platformer,OlliOlli World
-15,1,53,d53,15,0.7543696584991317,2D Platformer,13 Sentinels: Aegis Rim
+,qid,docid,docno,rank,score,query,name,search_score_gt
+0,1,79,d79,0,7.011972498715505,2D Platformer,The Legend of Zelda: Link's Awakening,1
+1,1,34,d34,1,6.924145051446873,2D Platformer,Dead Cells,2
+2,1,30,d30,2,5.13443364318928,2D Platformer,Hollow Knight,2
+3,1,54,d54,3,4.9152438000569765,2D Platformer,Fez,2
+4,1,11,d11,4,4.873563681151325,2D Platformer,Celeste,2
+5,1,94,d94,5,4.600486336985779,2D Platformer,Owlboy,2
+6,1,97,d97,6,4.5456043350747715,2D Platformer,Velocity 2X,2
+7,1,64,d64,7,4.259527165141813,2D Platformer,SteamWorld Dig 2,2
+8,1,27,d27,8,3.9931731292623307,2D Platformer,Bastion,2
+9,1,77,d77,9,3.6389938357563434,2D Platformer,Guacamelee! 2,2
+10,1,70,d70,10,3.4847285431265935,2D Platformer,FILMECHANISM,2
+11,1,83,d83,11,2.7909228224512157,2D Platformer,Trine 2: Complete Story,2
+12,1,75,d75,12,2.7640777048601066,2D Platformer,Dragon Ball FighterZ,0
+13,1,59,d59,13,2.5551692212265467,2D Platformer,Metroid Dread,2
+14,1,91,d91,14,1.7314867066095236,2D Platformer,OlliOlli World,2
+15,1,53,d53,15,1.0375513881653164,2D Platformer,13 Sentinels: Aegis Rim,0
+0,1,79,d79,0,4.211525535997703,2D Platformer,The Legend of Zelda: Link's Awakening,1
+1,1,34,d34,1,4.158774682083046,2D Platformer,Dead Cells,2
+2,1,30,d30,2,3.083839590805376,2D Platformer,Hollow Knight,2
+3,1,54,d54,3,2.952189955591871,2D Platformer,Fez,2
+4,1,11,d11,4,2.9271560745909504,2D Platformer,Celeste,2
+5,1,94,d94,5,2.7631405699000364,2D Platformer,Owlboy,2
+6,1,97,d97,6,2.730177384069341,2D Platformer,Velocity 2X,2
+7,1,64,d64,7,2.5583539340116985,2D Platformer,SteamWorld Dig 2,2
+8,1,27,d27,8,2.3983765775791146,2D Platformer,Bastion,2
+9,1,77,d77,9,2.1856496823730454,2D Platformer,Guacamelee! 2,2
+10,1,70,d70,10,2.0929949808112003,2D Platformer,FILMECHANISM,2
+11,1,83,d83,11,1.6762819217995013,2D Platformer,Trine 2: Complete Story,2
+12,1,75,d75,12,1.6601582278927542,2D Platformer,Dragon Ball FighterZ,0
+13,1,59,d59,13,1.5346837749238549,2D Platformer,Metroid Dread,2
+14,1,91,d91,14,1.0399642156985642,2D Platformer,OlliOlli World,2
+15,1,53,d53,15,0.6231733177745004,2D Platformer,13 Sentinels: Aegis Rim,0
+0,1,34,d34,0,3.5396631713256896,2D Platformer,Dead Cells,2
+1,1,79,d79,1,3.526363793537869,2D Platformer,The Legend of Zelda: Link's Awakening,1
+2,1,30,d30,2,3.049380494977431,2D Platformer,Hollow Knight,2
+3,1,54,d54,3,2.915824293423418,2D Platformer,Fez,1
+4,1,11,d11,4,2.8672379482136927,2D Platformer,Celeste,2
+5,1,94,d94,5,2.586552957725329,2D Platformer,Owlboy,2
+6,1,97,d97,6,2.5306163464116724,2D Platformer,Velocity 2X,2
+7,1,64,d64,7,2.294660364061521,2D Platformer,SteamWorld Dig 2,2
+8,1,27,d27,8,2.093688171607087,2D Platformer,Bastion,2
+9,1,77,d77,9,1.8830107169349681,2D Platformer,Guacamelee! 2,2
+10,1,70,d70,10,1.7495428817187533,2D Platformer,FILMECHANISM,2
+11,1,83,d83,11,1.325959410289577,2D Platformer,Trine 2: Complete Story,2
+12,1,75,d75,12,1.310140487123405,2D Platformer,Dragon Ball FighterZ,0
+13,1,59,d59,13,1.1876973496915089,2D Platformer,Metroid Dread,2
+14,1,91,d91,14,0.6989999806434897,2D Platformer,OlliOlli World,2
+15,1,53,d53,15,0.22154617874255256,2D Platformer,13 Sentinels: Aegis Rim,0
+0,1,79,d79,0,4.553965680149709,2D Platformer,The Legend of Zelda: Link's Awakening,1
+1,1,34,d34,1,4.520816624790502,2D Platformer,Dead Cells,2
+2,1,30,d30,2,3.20155847348995,2D Platformer,Hollow Knight,2
+3,1,54,d54,3,3.1255386307552726,2D Platformer,Fez,2
+4,1,11,d11,4,3.0968191039160775,2D Platformer,Celeste,2
+5,1,94,d94,5,2.91935376797988,2D Platformer,Owlboy,2
+6,1,97,d97,6,2.881563984338447,2D Platformer,Velocity 2X,2
+7,1,64,d64,7,2.7129533417223053,2D Platformer,SteamWorld Dig 2,2
+8,1,27,d27,8,2.5573253635682027,2D Platformer,Bastion,2
+9,1,77,d77,9,2.3821175051753136,2D Platformer,Guacamelee! 2,2
+10,1,70,d70,10,2.2647683551945317,2D Platformer,FILMECHANISM,2
+11,1,83,d83,11,1.8619240255064002,2D Platformer,Trine 2: Complete Story,2
+12,1,75,d75,12,1.8460838206209504,2D Platformer,Dragon Ball FighterZ,2
+13,1,59,d59,13,1.7219299188959896,2D Platformer,Metroid Dread,2
+14,1,91,d91,14,1.2133223820085806,2D Platformer,OlliOlli World,2
+15,1,53,d53,15,0.7543696584991317,2D Platformer,13 Sentinels: Aegis Rim,0
+2,1,67,d67,2,4.55719074545168,Racing,Cave Story +,2

@@ -1,5 +1,7 @@
-,qid,docid,docno,rank,score,query,name
-0,1,19,d19,0,7.446354019446935,Arcade,Retro City Rampage DX
-0,1,19,d19,0,4.468740730480129,Arcade,Retro City Rampage DX
-0,1,19,d19,0,3.58103194670981,Arcade,Retro City Rampage DX
-0,1,19,d19,0,9.727605056833356,Arcade,Retro City Rampage DX
+name,search_score_gt
+Retro City Rampage DX,1
+Neon White,2
+DUSK,2
+Quake Remastered,2
+Super Mega Baseball 3,2
+Super Mega Baseball 2: Ultimate Edition,2

@@ -1,5 +1,4 @@
-,qid,docid,docno,rank,score,query,name
-0,1,71,d71,0,6.655209622028711,farm,Stardew Valley
-0,1,71,d71,0,3.993955461984854,farm,Stardew Valley
-0,1,71,d71,0,3.6354927273523368,farm,Stardew Valley
-0,1,71,d71,0,6.610639861701039,farm,Stardew Valley
+name,search_score_gt
+Stardew Valley,2
+Animal Crossing: New Horizons,2
+Two Point Campus,1

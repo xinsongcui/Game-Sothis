@@ -1,21 +1,7 @@
-,qid,docid,docno,rank,score,query,name
-0,1,94,d94,0,5.797463230094552,Racing,Owlboy
-1,1,17,d17,1,5.617051634806647,Racing,Mario Kart 8 Deluxe
-2,1,67,d67,2,4.55719074545168,Racing,Cave Story +
-3,1,97,d97,3,4.188246720054492,Racing,Velocity 2X
-4,1,8,d8,4,3.5515720613271635,Racing,Ori and the Will of the Wisps
-0,1,94,d94,0,3.372906001536161,Racing,Owlboy
-1,1,17,d17,1,3.2679443435933364,Racing,Mario Kart 8 Deluxe
-2,1,67,d67,2,2.6513279007426034,Racing,Cave Story +
-3,1,97,d97,3,2.4366799645498647,Racing,Velocity 2X
-4,1,8,d8,4,2.066269029246292,Racing,Ori and the Will of the Wisps
-0,1,94,d94,0,2.8861937316039197,Racing,Owlboy
-1,1,17,d17,1,2.7935008295894583,Racing,Mario Kart 8 Deluxe
-2,1,67,d67,2,2.0664676130013633,Racing,Cave Story +
-3,1,97,d97,3,1.8595604257035543,Racing,Velocity 2X
-4,1,8,d8,4,1.5194392382386843,Racing,Ori and the Will of the Wisps
-0,1,94,d94,0,4.450533972620053,Racing,Owlboy
-1,1,17,d17,1,4.361607974696464,Racing,Mario Kart 8 Deluxe
-2,1,67,d67,2,3.56781394203618,Racing,Cave Story +
-3,1,97,d97,3,3.311197342220988,Racing,Velocity 2X
-4,1,8,d8,4,2.863073957920413,Racing,Ori and the Will of the Wisps
+name,search_score_gt
+Owlboy,1
+Mario Kart 8 Deluxe,2
+Cave Story +,1
+Velocity 2X,1
+Ori and the Will of the Wisps,1
+

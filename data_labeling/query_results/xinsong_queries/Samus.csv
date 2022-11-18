@@ -1,5 +1,5 @@
-,qid,docid,docno,rank,score,query,name
-0,1,59,d59,0,9.769983752146443,Samus,Metroid Dread
-0,1,59,d59,0,5.8632082513569,Samus,Metroid Dread
-0,1,59,d59,0,4.090495398256267,Samus,Metroid Dread
-0,1,59,d59,0,19.573482849425933,Samus,Metroid Dread
+,qid,docid,docno,rank,score,query,name,relevance
+0,1,59,d59,0,9.769983752146443,Samus,Metroid Dread,5
+0,1,59,d59,0,5.8632082513569,Samus,Metroid Dread,5
+0,1,59,d59,0,4.090495398256267,Samus,Metroid Dread,5
+0,1,59,d59,0,19.573482849425933,Samus,Metroid Dread,5

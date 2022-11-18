@@ -1,101 +1,101 @@
-,qid,docid,docno,rank,score,query,name
-0,1,66,d66,0,1.4362538797907558,Adventure,Cuphead in the Delicious Last Course
-1,1,51,d51,1,1.3381012351044514,Adventure,Tunic
-2,1,94,d94,2,1.3328796233563118,Adventure,Owlboy
-3,1,13,d13,3,1.2621579184913205,Adventure,Spelunky 2
-4,1,77,d77,4,1.2620516270332809,Adventure,Guacamelee! 2
-5,1,56,d56,5,1.2340949516372293,Adventure,FAR: Lone Sails
-6,1,64,d64,6,1.2340949516372293,Adventure,SteamWorld Dig 2
-7,1,93,d93,7,1.225015902661274,Adventure,Katamari Damacy REROLL
-8,1,24,d24,8,1.1856899772697502,Adventure,Shovel Knight: Treasure Trove
-9,1,23,d23,9,1.1815533602875148,Adventure,SteamWorld Heist: Ultimate Edition
-10,1,0,d0,10,1.1703879140307465,Adventure,The Legend of Zelda: Breath of the Wild
-11,1,83,d83,11,1.1649518662344631,Adventure,Trine 2: Complete Story
-12,1,30,d30,12,1.1569253132517616,Adventure,Hollow Knight
-13,1,12,d12,13,1.1333029867438043,Adventure,A Monster's Expedition
-14,1,32,d32,14,1.1333029867438043,Adventure,Chicory: A Colorful Tale
-15,1,89,d89,15,1.1032673497409868,Adventure,Severed
-16,1,50,d50,16,1.0960055615026651,Adventure,Hyper Light Drifter
-17,1,15,d15,17,1.074782661828572,Adventure,OneShot: World Machine Edition
-18,1,29,d29,18,1.0678898382589301,Adventure,The Forgotten City
-19,1,76,d76,19,1.0543660636160477,Adventure,Kentucky Route Zero: TV Edition
-20,1,20,d20,20,1.041126286205026,Adventure,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition
-21,1,79,d79,21,1.0157747005935334,Adventure,The Legend of Zelda: Link's Awakening
-22,1,97,d97,22,0.962908860166845,Adventure,Velocity 2X
-23,1,74,d74,23,0.9102701154193635,Adventure,Astral Chain
-24,1,43,d43,24,0.9004255141771076,Adventure,TowerFall
-0,1,66,d66,0,1.6372484748838658,Adventure,Cuphead in the Delicious Last Course
-1,1,51,d51,1,1.5253599918798153,Adventure,Tunic
-2,1,94,d94,2,1.5194076487799153,Adventure,Owlboy
-3,1,13,d13,3,1.438788891148943,Adventure,Spelunky 2
-4,1,77,d77,4,1.4386677248774244,Adventure,Guacamelee! 2
-5,1,56,d56,5,1.406798690579897,Adventure,FAR: Lone Sails
-6,1,64,d64,6,1.406798690579897,Adventure,SteamWorld Dig 2
-7,1,93,d93,7,1.3964490864476216,Adventure,Katamari Damacy REROLL
-8,1,24,d24,8,1.3516197479325889,Adventure,Shovel Knight: Treasure Trove
-9,1,23,d23,9,1.3469042377149034,Adventure,SteamWorld Heist: Ultimate Edition
-10,1,0,d0,10,1.334176258273027,Adventure,The Legend of Zelda: Breath of the Wild
-11,1,83,d83,11,1.3279794701639798,Adventure,Trine 2: Complete Story
-12,1,30,d30,12,1.318829652144747,Adventure,Hollow Knight
-13,1,12,d12,13,1.291901531293302,Adventure,A Monster's Expedition
-14,1,32,d32,14,1.291901531293302,Adventure,Chicory: A Colorful Tale
-15,1,89,d89,15,1.2576625979355083,Adventure,Severed
-16,1,50,d50,16,1.249384568622297,Adventure,Hyper Light Drifter
-17,1,15,d15,17,1.2251916591284095,Adventure,OneShot: World Machine Edition
-18,1,29,d29,18,1.217334228742436,Adventure,The Forgotten City
-19,1,76,d76,19,1.2019178878571062,Adventure,Kentucky Route Zero: TV Edition
-20,1,20,d20,20,1.186825287809853,Adventure,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition
-21,1,79,d79,21,1.1579259090423952,Adventure,The Legend of Zelda: Link's Awakening
-22,1,97,d97,22,1.0976618305045123,Adventure,Velocity 2X
-23,1,74,d74,23,1.0376566282416846,Adventure,Astral Chain
-24,1,43,d43,24,1.0264343376727836,Adventure,TowerFall
-0,1,66,d66,0,1.5408336813862231,Adventure,Cuphead in the Delicious Last Course
-1,1,51,d51,1,1.3818514315726969,Adventure,Tunic
-2,1,94,d94,2,1.3560657569003207,Adventure,Owlboy
-3,1,77,d77,3,1.2498733115065768,Adventure,Guacamelee! 2
-4,1,13,d13,4,1.23012917559473,Adventure,Spelunky 2
-5,1,56,d56,5,1.1858493584707377,Adventure,FAR: Lone Sails
-6,1,64,d64,6,1.1858493584707377,Adventure,SteamWorld Dig 2
-7,1,93,d93,7,1.1720977049447021,Adventure,Katamari Damacy REROLL
-8,1,24,d24,8,1.1288648461351811,Adventure,Shovel Knight: Treasure Trove
-9,1,0,d0,9,1.1205889764778254,Adventure,The Legend of Zelda: Breath of the Wild
-10,1,23,d23,10,1.1097085998604919,Adventure,SteamWorld Heist: Ultimate Edition
-11,1,83,d83,11,1.1016966712497807,Adventure,Trine 2: Complete Story
-12,1,30,d30,12,1.076622229711836,Adventure,Hollow Knight
-13,1,12,d12,13,1.0462477923815285,Adventure,A Monster's Expedition
-14,1,32,d32,14,1.0462477923815285,Adventure,Chicory: A Colorful Tale
-15,1,89,d89,15,1.0093701118502054,Adventure,Severed
-16,1,50,d50,16,1.0007260150477453,Adventure,Hyper Light Drifter
-17,1,15,d15,17,0.9760295157347108,Adventure,OneShot: World Machine Edition
-18,1,29,d29,18,0.9681827775113088,Adventure,The Forgotten City
-19,1,20,d20,19,0.954693185157756,Adventure,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition
-20,1,76,d76,20,0.9530241242760268,Adventure,Kentucky Route Zero: TV Edition
-21,1,79,d79,21,0.911382142737383,Adventure,The Legend of Zelda: Link's Awakening
-22,1,97,d97,22,0.857797255915342,Adventure,Velocity 2X
-23,1,74,d74,23,0.8078316641624648,Adventure,Astral Chain
-24,1,43,d43,24,0.7988156398041437,Adventure,TowerFall
-0,1,66,d66,0,1.4320862357337094,Adventure,Cuphead in the Delicious Last Course
-1,1,51,d51,1,1.3594845734992298,Adventure,Tunic
-2,1,94,d94,2,1.3465485477010568,Adventure,Owlboy
-3,1,77,d77,3,1.289303308045498,Adventure,Guacamelee! 2
-4,1,13,d13,4,1.2778941380109046,Adventure,Spelunky 2
-5,1,56,d56,5,1.251346589901219,Adventure,FAR: Lone Sails
-6,1,64,d64,6,1.251346589901219,Adventure,SteamWorld Dig 2
-7,1,93,d93,7,1.2428190950854552,Adventure,Katamari Damacy REROLL
-8,1,24,d24,8,1.215083323983708,Adventure,Shovel Knight: Treasure Trove
-9,1,0,d0,9,1.2096072688172175,Adventure,The Legend of Zelda: Breath of the Wild
-10,1,23,d23,10,1.2023232213212918,Adventure,SteamWorld Heist: Ultimate Edition
-11,1,83,d83,11,1.1968970349095918,Adventure,Trine 2: Complete Story
-12,1,30,d30,12,1.1795633650438668,Adventure,Hollow Knight
-13,1,12,d12,13,1.1578237186119722,Adventure,A Monster's Expedition
-14,1,32,d32,14,1.1578237186119722,Adventure,Chicory: A Colorful Tale
-15,1,89,d89,15,1.1302732775658522,Adventure,Severed
-16,1,50,d50,16,1.1236233758441445,Adventure,Hyper Light Drifter
-17,1,15,d15,17,1.1042049970822567,Adventure,OneShot: World Machine Edition
-18,1,29,d29,18,1.0979019583987029,Adventure,The Forgotten City
-19,1,20,d20,19,1.0869118052593014,Adventure,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition
-20,1,76,d76,20,1.0855382437222607,Adventure,Kentucky Route Zero: TV Edition
-21,1,79,d79,21,1.0502557004472484,Adventure,The Legend of Zelda: Link's Awakening
-22,1,97,d97,22,1.0018321396374865,Adventure,Velocity 2X
-23,1,74,d74,23,0.9533938651809534,Adventure,Astral Chain
-24,1,43,d43,24,0.9443008940330013,Adventure,TowerFall
+,qid,docid,docno,rank,score,query,name,relevance
+0,1,66,d66,0,1.4362538797907558,Adventure,Cuphead in the Delicious Last Course,5
+1,1,51,d51,1,1.3381012351044514,Adventure,Tunic,5
+2,1,94,d94,2,1.3328796233563118,Adventure,Owlboy,5
+3,1,13,d13,3,1.2621579184913205,Adventure,Spelunky 2,4
+4,1,77,d77,4,1.2620516270332809,Adventure,Guacamelee! 2,4
+5,1,56,d56,5,1.2340949516372293,Adventure,FAR: Lone Sails,5
+6,1,64,d64,6,1.2340949516372293,Adventure,SteamWorld Dig 2,5
+7,1,93,d93,7,1.225015902661274,Adventure,Katamari Damacy REROLL,5
+8,1,24,d24,8,1.1856899772697502,Adventure,Shovel Knight: Treasure Trove,4
+9,1,23,d23,9,1.1815533602875148,Adventure,SteamWorld Heist: Ultimate Edition,4
+10,1,0,d0,10,1.1703879140307465,Adventure,The Legend of Zelda: Breath of the Wild,5
+11,1,83,d83,11,1.1649518662344631,Adventure,Trine 2: Complete Story,5
+12,1,30,d30,12,1.1569253132517616,Adventure,Hollow Knight,5
+13,1,12,d12,13,1.1333029867438043,Adventure,A Monster's Expedition,4
+14,1,32,d32,14,1.1333029867438043,Adventure,Chicory: A Colorful Tale,4
+15,1,89,d89,15,1.1032673497409868,Adventure,Severed,3
+16,1,50,d50,16,1.0960055615026651,Adventure,Hyper Light Drifter,4
+17,1,15,d15,17,1.074782661828572,Adventure,OneShot: World Machine Edition,4
+18,1,29,d29,18,1.0678898382589301,Adventure,The Forgotten City,4
+19,1,76,d76,19,1.0543660636160477,Adventure,Kentucky Route Zero: TV Edition,4
+20,1,20,d20,20,1.041126286205026,Adventure,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,5
+21,1,79,d79,21,1.0157747005935334,Adventure,The Legend of Zelda: Link's Awakening,4
+22,1,97,d97,22,0.962908860166845,Adventure,Velocity 2X,3
+23,1,74,d74,23,0.9102701154193635,Adventure,Astral Chain,4
+24,1,43,d43,24,0.9004255141771076,Adventure,TowerFall,3
+0,1,66,d66,0,1.6372484748838658,Adventure,Cuphead in the Delicious Last Course,5
+1,1,51,d51,1,1.5253599918798153,Adventure,Tunic,5
+2,1,94,d94,2,1.5194076487799153,Adventure,Owlboy,5
+3,1,13,d13,3,1.438788891148943,Adventure,Spelunky 2,4
+4,1,77,d77,4,1.4386677248774244,Adventure,Guacamelee! 2,4
+5,1,56,d56,5,1.406798690579897,Adventure,FAR: Lone Sails,5
+6,1,64,d64,6,1.406798690579897,Adventure,SteamWorld Dig 2,5
+7,1,93,d93,7,1.3964490864476216,Adventure,Katamari Damacy REROLL,5
+8,1,24,d24,8,1.3516197479325889,Adventure,Shovel Knight: Treasure Trove,4
+9,1,23,d23,9,1.3469042377149034,Adventure,SteamWorld Heist: Ultimate Edition,4
+10,1,0,d0,10,1.334176258273027,Adventure,The Legend of Zelda: Breath of the Wild,5
+11,1,83,d83,11,1.3279794701639798,Adventure,Trine 2: Complete Story,5
+12,1,30,d30,12,1.318829652144747,Adventure,Hollow Knight,5
+13,1,12,d12,13,1.291901531293302,Adventure,A Monster's Expedition,4
+14,1,32,d32,14,1.291901531293302,Adventure,Chicory: A Colorful Tale,4
+15,1,89,d89,15,1.2576625979355083,Adventure,Severed,3
+16,1,50,d50,16,1.249384568622297,Adventure,Hyper Light Drifter,4
+17,1,15,d15,17,1.2251916591284095,Adventure,OneShot: World Machine Edition,4
+18,1,29,d29,18,1.217334228742436,Adventure,The Forgotten City,4
+19,1,76,d76,19,1.2019178878571062,Adventure,Kentucky Route Zero: TV Edition,4
+20,1,20,d20,20,1.186825287809853,Adventure,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,5
+21,1,79,d79,21,1.1579259090423952,Adventure,The Legend of Zelda: Link's Awakening,4
+22,1,97,d97,22,1.0976618305045123,Adventure,Velocity 2X,3
+23,1,74,d74,23,1.0376566282416846,Adventure,Astral Chain,4
+24,1,43,d43,24,1.0264343376727836,Adventure,TowerFall,3
+0,1,66,d66,0,1.5408336813862231,Adventure,Cuphead in the Delicious Last Course,5
+1,1,51,d51,1,1.3818514315726969,Adventure,Tunic,5
+2,1,94,d94,2,1.3560657569003207,Adventure,Owlboy,5
+3,1,77,d77,3,1.2498733115065768,Adventure,Guacamelee! 2,4
+4,1,13,d13,4,1.23012917559473,Adventure,Spelunky 2,4
+5,1,56,d56,5,1.1858493584707377,Adventure,FAR: Lone Sails,5
+6,1,64,d64,6,1.1858493584707377,Adventure,SteamWorld Dig 2,5
+7,1,93,d93,7,1.1720977049447021,Adventure,Katamari Damacy REROLL,5
+8,1,24,d24,8,1.1288648461351811,Adventure,Shovel Knight: Treasure Trove,4
+9,1,0,d0,9,1.1205889764778254,Adventure,The Legend of Zelda: Breath of the Wild,5
+10,1,23,d23,10,1.1097085998604919,Adventure,SteamWorld Heist: Ultimate Edition,4
+11,1,83,d83,11,1.1016966712497807,Adventure,Trine 2: Complete Story,5
+12,1,30,d30,12,1.076622229711836,Adventure,Hollow Knight,5
+13,1,12,d12,13,1.0462477923815285,Adventure,A Monster's Expedition,4
+14,1,32,d32,14,1.0462477923815285,Adventure,Chicory: A Colorful Tale,4
+15,1,89,d89,15,1.0093701118502054,Adventure,Severed,3
+16,1,50,d50,16,1.0007260150477453,Adventure,Hyper Light Drifter,4
+17,1,15,d15,17,0.9760295157347108,Adventure,OneShot: World Machine Edition,4
+18,1,29,d29,18,0.9681827775113088,Adventure,The Forgotten City,4
+19,1,20,d20,19,0.954693185157756,Adventure,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,5
+20,1,76,d76,20,0.9530241242760268,Adventure,Kentucky Route Zero: TV Edition,4
+21,1,79,d79,21,0.911382142737383,Adventure,The Legend of Zelda: Link's Awakening,4
+22,1,97,d97,22,0.857797255915342,Adventure,Velocity 2X,3
+23,1,74,d74,23,0.8078316641624648,Adventure,Astral Chain,4
+24,1,43,d43,24,0.7988156398041437,Adventure,TowerFall,3
+0,1,66,d66,0,1.4320862357337094,Adventure,Cuphead in the Delicious Last Course,5
+1,1,51,d51,1,1.3594845734992298,Adventure,Tunic,5
+2,1,94,d94,2,1.3465485477010568,Adventure,Owlboy,5
+3,1,77,d77,3,1.289303308045498,Adventure,Guacamelee! 2,4
+4,1,13,d13,4,1.2778941380109046,Adventure,Spelunky 2,4
+5,1,56,d56,5,1.251346589901219,Adventure,FAR: Lone Sails,5
+6,1,64,d64,6,1.251346589901219,Adventure,SteamWorld Dig 2,5
+7,1,93,d93,7,1.2428190950854552,Adventure,Katamari Damacy REROLL,5
+8,1,24,d24,8,1.215083323983708,Adventure,Shovel Knight: Treasure Trove,4
+9,1,0,d0,9,1.2096072688172175,Adventure,The Legend of Zelda: Breath of the Wild,5
+10,1,23,d23,10,1.2023232213212918,Adventure,SteamWorld Heist: Ultimate Edition,4
+11,1,83,d83,11,1.1968970349095918,Adventure,Trine 2: Complete Story,5
+12,1,30,d30,12,1.1795633650438668,Adventure,Hollow Knight,5
+13,1,12,d12,13,1.1578237186119722,Adventure,A Monster's Expedition,4
+14,1,32,d32,14,1.1578237186119722,Adventure,Chicory: A Colorful Tale,4
+15,1,89,d89,15,1.1302732775658522,Adventure,Severed,3
+16,1,50,d50,16,1.1236233758441445,Adventure,Hyper Light Drifter,4
+17,1,15,d15,17,1.1042049970822567,Adventure,OneShot: World Machine Edition,4
+18,1,29,d29,18,1.0979019583987029,Adventure,The Forgotten City,4
+19,1,20,d20,19,1.0869118052593014,Adventure,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,5
+20,1,76,d76,20,1.0855382437222607,Adventure,Kentucky Route Zero: TV Edition,4
+21,1,79,d79,21,1.0502557004472484,Adventure,The Legend of Zelda: Link's Awakening,4
+22,1,97,d97,22,1.0018321396374865,Adventure,Velocity 2X,3
+23,1,74,d74,23,0.9533938651809534,Adventure,Astral Chain,4
+24,1,43,d43,24,0.9443008940330013,Adventure,TowerFall,3

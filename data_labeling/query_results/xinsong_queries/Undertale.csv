@@ -1,5 +1,5 @@
-,qid,docid,docno,rank,score,query,name
-0,1,9,d9,0,5.43237358973943,Undertale,Undertale
-0,1,9,d9,0,3.2601013946226782,Undertale,Undertale
-0,1,9,d9,0,2.9043844441552813,Undertale,Undertale
-0,1,9,d9,0,5.526283972601134,Undertale,Undertale
+,qid,docid,docno,rank,score,query,name,relevance
+0,1,9,d9,0,5.43237358973943,Undertale,Undertale,5
+0,1,9,d9,0,3.2601013946226782,Undertale,Undertale,5
+0,1,9,d9,0,2.9043844441552813,Undertale,Undertale,5
+0,1,9,d9,0,5.526283972601134,Undertale,Undertale,5

@@ -1,49 +1,49 @@
-,qid,docid,docno,rank,score,query,name
-0,1,16,d16,0,4.793514786242657,top rated,Bayonetta 2
-1,1,11,d11,1,4.21134673993684,top rated,Celeste
-2,1,32,d32,2,3.380128454971805,top rated,Chicory: A Colorful Tale
-3,1,97,d97,3,2.871920109507479,top rated,Velocity 2X
-4,1,81,d81,4,2.7756157744788186,top rated,Two Point Campus
-5,1,55,d55,5,2.685560646758173,top rated,Nuclear Throne
-6,1,68,d68,6,2.587612737680242,top rated,Bayonetta 3
-7,1,9,d9,7,2.5347848484033038,top rated,Undertale
-8,1,8,d8,8,2.435346316741747,top rated,Ori and the Will of the Wisps
-9,1,98,d98,9,2.435346316741747,top rated,Streets of Rage 4
-10,1,31,d31,10,1.730870278014973,top rated,Bayonetta + Bayonetta 2
-11,1,53,d53,11,0.8965695211834606,top rated,13 Sentinels: Aegis Rim
-0,1,16,d16,0,2.983767083041331,top rated,Bayonetta 2
-1,1,11,d11,1,2.621391262620143,top rated,Celeste
-2,1,32,d32,2,2.103991845261761,top rated,Chicory: A Colorful Tale
-3,1,97,d97,3,1.7876529164917205,top rated,Velocity 2X
-4,1,81,d81,4,1.727707403099878,top rated,Two Point Campus
-5,1,55,d55,5,1.6716517659037395,top rated,Nuclear Throne
-6,1,68,d68,6,1.6106831948255358,top rated,Bayonetta 3
-7,1,9,d9,7,1.5777999923905575,top rated,Undertale
-8,1,8,d8,8,1.5159035696634917,top rated,Ori and the Will of the Wisps
-9,1,98,d98,9,1.5159035696634917,top rated,Streets of Rage 4
-10,1,31,d31,10,1.0773960216786607,top rated,Bayonetta + Bayonetta 2
-11,1,53,d53,11,0.5580778915385859,top rated,13 Sentinels: Aegis Rim
-0,1,16,d16,0,3.2273540116165305,top rated,Bayonetta 2
-1,1,11,d11,1,2.6274397133497653,top rated,Celeste
-2,1,32,d32,2,1.8493536376712558,top rated,Chicory: A Colorful Tale
-3,1,97,d97,3,1.492446788079654,top rated,Velocity 2X
-4,1,81,d81,4,1.4293833595487613,top rated,Two Point Campus
-5,1,55,d55,5,1.3713368084519253,top rated,Nuclear Throne
-6,1,68,d68,6,1.3090704157622717,top rated,Bayonetta 3
-7,1,9,d9,7,1.2758111109608476,top rated,Undertale
-8,1,8,d8,8,1.2137240941980028,top rated,Ori and the Will of the Wisps
-9,1,98,d98,9,1.2137240941980028,top rated,Streets of Rage 4
-10,1,31,d31,10,0.7803804327005494,top rated,Bayonetta + Bayonetta 2
-11,1,53,d53,11,0.19587037918120148,top rated,13 Sentinels: Aegis Rim
-0,1,16,d16,0,2.8992041736532737,top rated,Bayonetta 2
-1,1,11,d11,1,2.619902702462345,top rated,Celeste
-2,1,32,d32,2,2.1236183908567443,top rated,Chicory: A Colorful Tale
-3,1,97,d97,3,1.8375069728542432,top rated,Velocity 2X
-4,1,81,d81,4,1.783071625979359,top rated,Two Point Campus
-5,1,55,d55,5,1.731986236622439,top rated,Nuclear Throne
-6,1,68,d68,6,1.6761803835989526,top rated,Bayonetta 3
-7,1,9,d9,7,1.6459618817285708,top rated,Undertale
-8,1,8,d8,8,1.5888265837841582,top rated,Ori and the Will of the Wisps
-9,1,98,d98,9,1.5888265837841582,top rated,Streets of Rage 4
-10,1,31,d31,10,1.1715533083674157,top rated,Bayonetta + Bayonetta 2
-11,1,53,d53,11,0.6381952063193648,top rated,13 Sentinels: Aegis Rim
+,qid,docid,docno,rank,score,query,name,relevance
+0,1,16,d16,0,4.793514786242657,top rated,Bayonetta 2,4
+1,1,11,d11,1,4.21134673993684,top rated,Celeste,5
+2,1,32,d32,2,3.380128454971805,top rated,Chicory: A Colorful Tale,4
+3,1,97,d97,3,2.871920109507479,top rated,Velocity 2X,2
+4,1,81,d81,4,2.7756157744788186,top rated,Two Point Campus,2
+5,1,55,d55,5,2.685560646758173,top rated,Nuclear Throne,3
+6,1,68,d68,6,2.587612737680242,top rated,Bayonetta 3,3
+7,1,9,d9,7,2.5347848484033038,top rated,Undertale,5
+8,1,8,d8,8,2.435346316741747,top rated,Ori and the Will of the Wisps,4
+9,1,98,d98,9,2.435346316741747,top rated,Streets of Rage 4,3
+10,1,31,d31,10,1.730870278014973,top rated,Bayonetta + Bayonetta 2,4
+11,1,53,d53,11,0.8965695211834606,top rated,13 Sentinels: Aegis Rim,4
+0,1,16,d16,0,2.983767083041331,top rated,Bayonetta 2,4
+1,1,11,d11,1,2.621391262620143,top rated,Celeste,5
+2,1,32,d32,2,2.103991845261761,top rated,Chicory: A Colorful Tale,4
+3,1,97,d97,3,1.7876529164917205,top rated,Velocity 2X,3
+4,1,81,d81,4,1.727707403099878,top rated,Two Point Campus,3
+5,1,55,d55,5,1.6716517659037395,top rated,Nuclear Throne,4
+6,1,68,d68,6,1.6106831948255358,top rated,Bayonetta 3,4
+7,1,9,d9,7,1.5777999923905575,top rated,Undertale,5
+8,1,8,d8,8,1.5159035696634917,top rated,Ori and the Will of the Wisps,4
+9,1,98,d98,9,1.5159035696634917,top rated,Streets of Rage 4,3
+10,1,31,d31,10,1.0773960216786607,top rated,Bayonetta + Bayonetta 2,4
+11,1,53,d53,11,0.5580778915385859,top rated,13 Sentinels: Aegis Rim,4
+0,1,16,d16,0,3.2273540116165305,top rated,Bayonetta 2,4
+1,1,11,d11,1,2.6274397133497653,top rated,Celeste,5
+2,1,32,d32,2,1.8493536376712558,top rated,Chicory: A Colorful Tale,4
+3,1,97,d97,3,1.492446788079654,top rated,Velocity 2X,3
+4,1,81,d81,4,1.4293833595487613,top rated,Two Point Campus,3
+5,1,55,d55,5,1.3713368084519253,top rated,Nuclear Throne,4
+6,1,68,d68,6,1.3090704157622717,top rated,Bayonetta 3,4
+7,1,9,d9,7,1.2758111109608476,top rated,Undertale,5
+8,1,8,d8,8,1.2137240941980028,top rated,Ori and the Will of the Wisps,4
+9,1,98,d98,9,1.2137240941980028,top rated,Streets of Rage 4,3
+10,1,31,d31,10,0.7803804327005494,top rated,Bayonetta + Bayonetta 2,4
+11,1,53,d53,11,0.19587037918120148,top rated,13 Sentinels: Aegis Rim,4
+0,1,16,d16,0,2.8992041736532737,top rated,Bayonetta 2,4
+1,1,11,d11,1,2.619902702462345,top rated,Celeste,5
+2,1,32,d32,2,2.1236183908567443,top rated,Chicory: A Colorful Tale,4
+3,1,97,d97,3,1.8375069728542432,top rated,Velocity 2X,3
+4,1,81,d81,4,1.783071625979359,top rated,Two Point Campus,3
+5,1,55,d55,5,1.731986236622439,top rated,Nuclear Throne,4
+6,1,68,d68,6,1.6761803835989526,top rated,Bayonetta 3,4
+7,1,9,d9,7,1.6459618817285708,top rated,Undertale,5
+8,1,8,d8,8,1.5888265837841582,top rated,Ori and the Will of the Wisps,4
+9,1,98,d98,9,1.5888265837841582,top rated,Streets of Rage 4,3
+10,1,31,d31,10,1.1715533083674157,top rated,Bayonetta + Bayonetta 2,4
+11,1,53,d53,11,0.6381952063193648,top rated,13 Sentinels: Aegis Rim,4

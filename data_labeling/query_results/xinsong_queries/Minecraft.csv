@@ -1,5 +1,5 @@
-,qid,docid,docno,rank,score,query,name
-0,1,19,d19,0,5.168573647431421,Minecraft,Retro City Rampage DX
-0,1,19,d19,0,3.101788541941835,Minecraft,Retro City Rampage DX
-0,1,19,d19,0,2.749520771484751,Minecraft,Retro City Rampage DX
-0,1,19,d19,0,5.288648528633815,Minecraft,Retro City Rampage DX
+,qid,docid,docno,rank,score,query,name,relevance
+0,1,19,d19,0,5.168573647431421,Minecraft,Retro City Rampage DX,1
+0,1,19,d19,0,3.101788541941835,Minecraft,Retro City Rampage DX,1
+0,1,19,d19,0,2.749520771484751,Minecraft,Retro City Rampage DX,1
+0,1,19,d19,0,5.288648528633815,Minecraft,Retro City Rampage DX,1

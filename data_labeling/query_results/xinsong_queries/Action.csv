@@ -1,101 +1,101 @@
-,qid,docid,docno,rank,score,query,name
-0,1,70,d70,0,2.219937308592618,Action,FILMECHANISM
-1,1,16,d16,1,1.9459774826398968,Action,Bayonetta 2
-2,1,68,d68,2,1.9155096462661942,Action,Bayonetta 3
-3,1,61,d61,3,1.696184454686037,Action,Monster Hunter Rise
-4,1,63,d63,4,1.6526134435375444,Action,Diablo III: Eternal Collection
-5,1,51,d51,5,1.6129280435212052,Action,Tunic
-6,1,34,d34,6,1.59388584752875,Action,Dead Cells
-7,1,1,d1,7,1.560755514842826,Action,Super Mario Odyssey
-8,1,27,d27,8,1.560755514842826,Action,Bastion
-9,1,30,d30,9,1.560755514842826,Action,Hollow Knight
-10,1,39,d39,10,1.5340210225556496,Action,NieR: Automata - The End of YoRHa Edition
-11,1,50,d50,11,1.4785714382942587,Action,Hyper Light Drifter
-12,1,66,d66,12,1.4785714382942587,Action,Cuphead in the Delicious Last Course
-13,1,86,d86,13,1.449940586044863,Action,DoDonPachi Resurrection
-14,1,92,d92,14,1.4406417901105604,Action,Grindstone
-15,1,73,d73,15,1.4223974785602806,Action,Cuphead
-16,1,45,d45,16,1.3297758122482681,Action,Neon White
-17,1,97,d97,17,1.2990167097064633,Action,Velocity 2X
-18,1,6,d6,18,1.22127227518713,Action,Hades
-19,1,90,d90,19,1.2147232590210317,Action,Axiom Verge
-20,1,96,d96,20,1.1827447018759498,Action,Little Noah: Scion of Paradise
-21,1,87,d87,21,1.1765499788469487,Action,Teenage Mutant Ninja Turtles: Shredder's Revenge
-22,1,24,d24,22,1.1179941140551632,Action,Shovel Knight: Treasure Trove
-23,1,98,d98,23,1.1015472014338707,Action,Streets of Rage 4
-24,1,19,d19,24,1.0908488176284323,Action,Retro City Rampage DX
-0,1,70,d70,0,2.0413827867074312,Action,FILMECHANISM
-1,1,16,d16,1,1.7894581621765686,Action,Bayonetta 2
-2,1,68,d68,2,1.7614409220136356,Action,Bayonetta 3
-3,1,61,d61,3,1.5597565460404734,Action,Monster Hunter Rise
-4,1,63,d63,4,1.5196900487508005,Action,Diablo III: Eternal Collection
-5,1,51,d51,5,1.4831966342010383,Action,Tunic
-6,1,34,d34,6,1.4656860446138256,Action,Dead Cells
-7,1,1,d1,7,1.4352204586708548,Action,Super Mario Odyssey
-8,1,27,d27,8,1.4352204586708548,Action,Bastion
-9,1,30,d30,9,1.4352204586708548,Action,Hollow Knight
-10,1,39,d39,10,1.4106362813811797,Action,NieR: Automata - The End of YoRHa Edition
-11,1,50,d50,11,1.3596466311765765,Action,Hyper Light Drifter
-12,1,66,d66,12,1.3596466311765765,Action,Cuphead in the Delicious Last Course
-13,1,86,d86,13,1.333318622397025,Action,DoDonPachi Resurrection
-14,1,92,d92,14,1.3247677494133976,Action,Grindstone
-15,1,73,d73,15,1.3079908686384718,Action,Cuphead
-16,1,45,d45,16,1.2228189700656371,Action,Neon White
-17,1,97,d97,17,1.1945338909238228,Action,Velocity 2X
-18,1,6,d6,18,1.1230426151225767,Action,Hades
-19,1,90,d90,19,1.117020350971425,Action,Axiom Verge
-20,1,96,d96,20,1.0876139006869814,Action,Little Noah: Scion of Paradise
-21,1,87,d87,21,1.081917433083651,Action,Teenage Mutant Ninja Turtles: Shredder's Revenge
-22,1,24,d24,22,1.0280713474378806,Action,Shovel Knight: Treasure Trove
-23,1,98,d98,23,1.0129472967767954,Action,Streets of Rage 4
-24,1,19,d19,24,1.003109407904223,Action,Retro City Rampage DX
-0,1,70,d70,0,2.1922617033686707,Action,FILMECHANISM
-1,1,16,d16,1,1.6358189625514183,Action,Bayonetta 2
-2,1,68,d68,2,1.6015219271059293,Action,Bayonetta 3
-3,1,61,d61,3,1.295989498504699,Action,Monster Hunter Rise
-4,1,63,d63,4,1.2352776996910566,Action,Diablo III: Eternal Collection
-5,1,51,d51,5,1.216554906883313,Action,Tunic
-6,1,34,d34,6,1.1834116773256,Action,Dead Cells
-7,1,1,d1,7,1.133649401538512,Action,Super Mario Odyssey
-8,1,27,d27,8,1.133649401538512,Action,Bastion
-9,1,30,d30,9,1.133649401538512,Action,Hollow Knight
-10,1,39,d39,10,1.1227896650068376,Action,NieR: Automata - The End of YoRHa Edition
-11,1,50,d50,11,1.0523119589026877,Action,Hyper Light Drifter
-12,1,66,d66,12,1.0523119589026877,Action,Cuphead in the Delicious Last Course
-13,1,86,d86,13,1.0257266529024083,Action,DoDonPachi Resurrection
-14,1,92,d92,14,1.0172668242783374,Action,Grindstone
-15,1,73,d73,15,1.0009055646233116,Action,Cuphead
-16,1,45,d45,16,0.9222264783864351,Action,Neon White
-17,1,97,d97,17,0.8975366854852436,Action,Velocity 2X
-18,1,6,d6,18,0.8533173559898937,Action,Hades
-19,1,90,d90,19,0.8329590614500161,Action,Axiom Verge
-20,1,96,d96,20,0.8094978579705859,Action,Little Noah: Scion of Paradise
-21,1,87,d87,21,0.8050118062520465,Action,Teenage Mutant Ninja Turtles: Shredder's Revenge
-22,1,24,d24,22,0.7634605517473976,Action,Shovel Knight: Treasure Trove
-23,1,98,d98,23,0.7520436172281557,Action,Streets of Rage 4
-24,1,19,d19,24,0.7446709852690916,Action,Retro City Rampage DX
-0,1,70,d70,0,1.8541910060374938,Action,FILMECHANISM
-1,1,16,d16,1,1.650549057850776,Action,Bayonetta 2
-2,1,68,d68,2,1.634554265793907,Action,Bayonetta 3
-3,1,61,d61,3,1.4668485309201844,Action,Monster Hunter Rise
-4,1,63,d63,4,1.4270389377497887,Action,Diablo III: Eternal Collection
-5,1,51,d51,5,1.4142440972600476,Action,Tunic
-6,1,34,d34,6,1.3909617052342658,Action,Dead Cells
-7,1,1,d1,7,1.3544069753329833,Action,Super Mario Odyssey
-8,1,27,d27,8,1.3544069753329833,Action,Bastion
-9,1,30,d30,9,1.3544069753329833,Action,Hollow Knight
-10,1,39,d39,10,1.346162446775655,Action,NieR: Automata - The End of YoRHa Edition
-11,1,50,d50,11,1.2901751469993368,Action,Hyper Light Drifter
-12,1,66,d66,12,1.2901751469993368,Action,Cuphead in the Delicious Last Course
-13,1,86,d86,13,1.267878432448711,Action,DoDonPachi Resurrection
-14,1,92,d92,14,1.260641110731381,Action,Grindstone
-15,1,73,d73,15,1.246444754778789,Action,Cuphead
-16,1,45,d45,16,1.1743346244152506,Action,Neon White
-17,1,97,d97,17,1.1503311125530906,Action,Velocity 2X
-18,1,6,d6,18,1.1056173673388388,Action,Hades
-19,1,90,d90,19,1.0842721600156728,Action,Axiom Verge
-20,1,96,d96,20,1.0590724988627869,Action,Little Noah: Scion of Paradise
-21,1,87,d87,21,1.0541805664016495,Action,Teenage Mutant Ninja Turtles: Shredder's Revenge
-22,1,24,d24,22,1.0077548078561906,Action,Shovel Knight: Treasure Trove
-23,1,98,d98,23,0.9946501857020892,Action,Streets of Rage 4
-24,1,19,d19,24,0.9861095203651746,Action,Retro City Rampage DX
+,qid,docid,docno,rank,score,query,name,relevance
+0,1,70,d70,0,2.219937308592618,Action,FILMECHANISM,4
+1,1,16,d16,1,1.9459774826398968,Action,Bayonetta 2,5
+2,1,68,d68,2,1.9155096462661942,Action,Bayonetta 3,5
+3,1,61,d61,3,1.696184454686037,Action,Monster Hunter Rise,5
+4,1,63,d63,4,1.6526134435375444,Action,Diablo III: Eternal Collection,3
+5,1,51,d51,5,1.6129280435212052,Action,Tunic,3
+6,1,34,d34,6,1.59388584752875,Action,Dead Cells,4
+7,1,1,d1,7,1.560755514842826,Action,Super Mario Odyssey,4
+8,1,27,d27,8,1.560755514842826,Action,Bastion,3
+9,1,30,d30,9,1.560755514842826,Action,Hollow Knight,4
+10,1,39,d39,10,1.5340210225556496,Action,NieR: Automata - The End of YoRHa Edition,4
+11,1,50,d50,11,1.4785714382942587,Action,Hyper Light Drifter,4
+12,1,66,d66,12,1.4785714382942587,Action,Cuphead in the Delicious Last Course,4
+13,1,86,d86,13,1.449940586044863,Action,DoDonPachi Resurrection,3
+14,1,92,d92,14,1.4406417901105604,Action,Grindstone,4
+15,1,73,d73,15,1.4223974785602806,Action,Cuphead,4
+16,1,45,d45,16,1.3297758122482681,Action,Neon White,4
+17,1,97,d97,17,1.2990167097064633,Action,Velocity 2X,4
+18,1,6,d6,18,1.22127227518713,Action,Hades,5
+19,1,90,d90,19,1.2147232590210317,Action,Axiom Verge,3
+20,1,96,d96,20,1.1827447018759498,Action,Little Noah: Scion of Paradise,3
+21,1,87,d87,21,1.1765499788469487,Action,Teenage Mutant Ninja Turtles: Shredder's Revenge,4
+22,1,24,d24,22,1.1179941140551632,Action,Shovel Knight: Treasure Trove,3
+23,1,98,d98,23,1.1015472014338707,Action,Streets of Rage 4,4
+24,1,19,d19,24,1.0908488176284323,Action,Retro City Rampage DX,4
+0,1,70,d70,0,2.0413827867074312,Action,FILMECHANISM,4
+1,1,16,d16,1,1.7894581621765686,Action,Bayonetta 2,5
+2,1,68,d68,2,1.7614409220136356,Action,Bayonetta 3,5
+3,1,61,d61,3,1.5597565460404734,Action,Monster Hunter Rise,5
+4,1,63,d63,4,1.5196900487508005,Action,Diablo III: Eternal Collection,3
+5,1,51,d51,5,1.4831966342010383,Action,Tunic,3
+6,1,34,d34,6,1.4656860446138256,Action,Dead Cells,4
+7,1,1,d1,7,1.4352204586708548,Action,Super Mario Odyssey,4
+8,1,27,d27,8,1.4352204586708548,Action,Bastion,3
+9,1,30,d30,9,1.4352204586708548,Action,Hollow Knight,4
+10,1,39,d39,10,1.4106362813811797,Action,NieR: Automata - The End of YoRHa Edition,4
+11,1,50,d50,11,1.3596466311765765,Action,Hyper Light Drifter,4
+12,1,66,d66,12,1.3596466311765765,Action,Cuphead in the Delicious Last Course,4
+13,1,86,d86,13,1.333318622397025,Action,DoDonPachi Resurrection,3
+14,1,92,d92,14,1.3247677494133976,Action,Grindstone,4
+15,1,73,d73,15,1.3079908686384718,Action,Cuphead,4
+16,1,45,d45,16,1.2228189700656371,Action,Neon White,4
+17,1,97,d97,17,1.1945338909238228,Action,Velocity 2X,4
+18,1,6,d6,18,1.1230426151225767,Action,Hades,5
+19,1,90,d90,19,1.117020350971425,Action,Axiom Verge,3
+20,1,96,d96,20,1.0876139006869814,Action,Little Noah: Scion of Paradise,3
+21,1,87,d87,21,1.081917433083651,Action,Teenage Mutant Ninja Turtles: Shredder's Revenge,4
+22,1,24,d24,22,1.0280713474378806,Action,Shovel Knight: Treasure Trove,3
+23,1,98,d98,23,1.0129472967767954,Action,Streets of Rage 4,4
+24,1,19,d19,24,1.003109407904223,Action,Retro City Rampage DX,4
+0,1,70,d70,0,2.1922617033686707,Action,FILMECHANISM,4
+1,1,16,d16,1,1.6358189625514183,Action,Bayonetta 2,5
+2,1,68,d68,2,1.6015219271059293,Action,Bayonetta 3,5
+3,1,61,d61,3,1.295989498504699,Action,Monster Hunter Rise,5
+4,1,63,d63,4,1.2352776996910566,Action,Diablo III: Eternal Collection,3
+5,1,51,d51,5,1.216554906883313,Action,Tunic,3
+6,1,34,d34,6,1.1834116773256,Action,Dead Cells,4
+7,1,1,d1,7,1.133649401538512,Action,Super Mario Odyssey,4
+8,1,27,d27,8,1.133649401538512,Action,Bastion,3
+9,1,30,d30,9,1.133649401538512,Action,Hollow Knight,4
+10,1,39,d39,10,1.1227896650068376,Action,NieR: Automata - The End of YoRHa Edition,4
+11,1,50,d50,11,1.0523119589026877,Action,Hyper Light Drifter,4
+12,1,66,d66,12,1.0523119589026877,Action,Cuphead in the Delicious Last Course,4
+13,1,86,d86,13,1.0257266529024083,Action,DoDonPachi Resurrection,3
+14,1,92,d92,14,1.0172668242783374,Action,Grindstone,4
+15,1,73,d73,15,1.0009055646233116,Action,Cuphead,4
+16,1,45,d45,16,0.9222264783864351,Action,Neon White,4
+17,1,97,d97,17,0.8975366854852436,Action,Velocity 2X,4
+18,1,6,d6,18,0.8533173559898937,Action,Hades,5
+19,1,90,d90,19,0.8329590614500161,Action,Axiom Verge,3
+20,1,96,d96,20,0.8094978579705859,Action,Little Noah: Scion of Paradise,3
+21,1,87,d87,21,0.8050118062520465,Action,Teenage Mutant Ninja Turtles: Shredder's Revenge,4
+22,1,24,d24,22,0.7634605517473976,Action,Shovel Knight: Treasure Trove,3
+23,1,98,d98,23,0.7520436172281557,Action,Streets of Rage 4,4
+24,1,19,d19,24,0.7446709852690916,Action,Retro City Rampage DX,4
+0,1,70,d70,0,1.8541910060374938,Action,FILMECHANISM,4
+1,1,16,d16,1,1.650549057850776,Action,Bayonetta 2,5
+2,1,68,d68,2,1.634554265793907,Action,Bayonetta 3,5
+3,1,61,d61,3,1.4668485309201844,Action,Monster Hunter Rise,5
+4,1,63,d63,4,1.4270389377497887,Action,Diablo III: Eternal Collection,3
+5,1,51,d51,5,1.4142440972600476,Action,Tunic,3
+6,1,34,d34,6,1.3909617052342658,Action,Dead Cells,4
+7,1,1,d1,7,1.3544069753329833,Action,Super Mario Odyssey,4
+8,1,27,d27,8,1.3544069753329833,Action,Bastion,3
+9,1,30,d30,9,1.3544069753329833,Action,Hollow Knight,4
+10,1,39,d39,10,1.346162446775655,Action,NieR: Automata - The End of YoRHa Edition,4
+11,1,50,d50,11,1.2901751469993368,Action,Hyper Light Drifter,4
+12,1,66,d66,12,1.2901751469993368,Action,Cuphead in the Delicious Last Course,4
+13,1,86,d86,13,1.267878432448711,Action,DoDonPachi Resurrection,3
+14,1,92,d92,14,1.260641110731381,Action,Grindstone,4
+15,1,73,d73,15,1.246444754778789,Action,Cuphead,4
+16,1,45,d45,16,1.1743346244152506,Action,Neon White,4
+17,1,97,d97,17,1.1503311125530906,Action,Velocity 2X,4
+18,1,6,d6,18,1.1056173673388388,Action,Hades,5
+19,1,90,d90,19,1.0842721600156728,Action,Axiom Verge,3
+20,1,96,d96,20,1.0590724988627869,Action,Little Noah: Scion of Paradise,3
+21,1,87,d87,21,1.0541805664016495,Action,Teenage Mutant Ninja Turtles: Shredder's Revenge,4
+22,1,24,d24,22,1.0077548078561906,Action,Shovel Knight: Treasure Trove,3
+23,1,98,d98,23,0.9946501857020892,Action,Streets of Rage 4,4
+24,1,19,d19,24,0.9861095203651746,Action,Retro City Rampage DX,4

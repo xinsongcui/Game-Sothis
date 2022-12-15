@@ -1,4 +1,4 @@
-,qid,docid,docno,rank,score,query,name,search_score_gt
+,qid,docid,docno,rank,score,query,name,relevance
 0,1,79,d79,0,7.206161881217364,Link,The Legend of Zelda: Link's Awakening,2
 1,1,10,d10,1,5.722341079420125,Link,Super Smash Bros. Ultimate,2
 2,1,0,d0,2,5.467160732171196,Link,The Legend of Zelda: Breath of the Wild,2

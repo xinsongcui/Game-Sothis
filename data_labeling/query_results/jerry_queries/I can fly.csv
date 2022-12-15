@@ -1,4 +1,4 @@
-,qid,docid,docno,rank,score,query,name,search_score_gt
+,qid,docid,docno,rank,score,query,name,relevance
 0,1,61,d61,0,6.905162780395217,I can fly,Monster Hunter Rise,1
 1,1,36,d36,1,1.7875439232863188,I can fly,Super Mario 3D World + Bowser's Fury,2
 2,1,65,d65,2,1.780060659193672,I can fly,Ikaruga,2

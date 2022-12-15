@@ -1,4 +1,4 @@
-,qid,docid,docno,rank,score,query,name,search_score_gt
+,qid,docid,docno,rank,score,query,name,relevance
 0,1,79,d79,0,7.011972498715505,2D Platformer,The Legend of Zelda: Link's Awakening,1
 1,1,34,d34,1,6.924145051446873,2D Platformer,Dead Cells,2
 2,1,30,d30,2,5.13443364318928,2D Platformer,Hollow Knight,2

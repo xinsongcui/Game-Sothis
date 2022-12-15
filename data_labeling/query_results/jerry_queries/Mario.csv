@@ -1,4 +1,4 @@
-,qid,docid,docno,rank,score,query,name,search_score_gt
+,qid,docid,docno,rank,score,query,name,relevance
 0,1,1,d1,0,7.99335084798039,Mario,Super Mario Odyssey,2
 1,1,60,d60,1,7.116327173511078,Mario,Super Mario Maker 2,2
 2,1,36,d36,2,6.836622563067607,Mario,Super Mario 3D World + Bowser's Fury,2

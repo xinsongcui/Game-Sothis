@@ -1,4 +1,4 @@
-,qid,docid,docno,rank,score,query,name,search_score_gt
+,qid,docid,docno,rank,score,query,name,relevance
 0,1,70,d70,0,4.891870943121068,Puzzle,FILMECHANISM,2
 1,1,12,d12,1,4.180532988951039,Puzzle,A Monster's Expedition,2
 2,1,3,d3,2,4.125874273038657,Puzzle,Portal Companion Collection,2

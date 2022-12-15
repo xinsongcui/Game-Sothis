@@ -1,4 +1,4 @@
-,qid,docid,docno,rank,score,query,name,search_score_gt
+,qid,docid,docno,rank,score,query,name,relevance
 0,1,1,d1,0,6.204839191739989,unknown worlds,Super Mario Odyssey,2
 1,1,48,d48,1,4.966814252144319,unknown worlds,Dicey Dungeons,2
 2,1,99,d99,2,4.317648147750334,unknown worlds,Firewatch,1

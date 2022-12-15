@@ -1,9 +1,51 @@
-,docid,docno,rank,score,query,name,relevance
-0,0,d0,0,0,Zelda,bestseller,The Legend of Zelda: Breath of the Wild,5
-1,1,10,d10,1,0,bestseller,Super Smash Bros. Ultimate,5
-2,1,d1,2,0,bestseller,Super Mario Odyssey,5
-3,36,d36,3,0,bestseller,Super Mario 3D World + Bowser's Fury,5
-4,61,d61,4,0,bestseller,Monster Hunter Rise,4
-5,79,d79,5,0,bestseller,The Legend of Zelda: Link's Awakening,4
-6,59,d59,6,0,bestseller,Metroid Dread,3
-7,16,d16,7,0,bestseller,Bayonetta 3
+name,relevance
+Hollow Knight,5
+Hades,5
+Super Mario Odyssey,5
+Astral Chain,5
+Fire Emblem: Three Houses,5
+Xenoblade Chronicles: Definitive Edition,5
+Monster Hunter Rise,5
+The Legend of Zelda: Breath of the Wild,5
+Bayonetta + Bayonetta 2,5
+Ori and the Will of the Wisps,5
+Super Mario 3D World + Bowser's Fury,4
+Metroid Dread,4
+Mario Kart 8 Deluxe,4
+Stardew Valley,4
+Celeste,4
+Super Smash Bros. Ultimate,4
+Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,4
+The House in Fata Morgana - Dreams of the Revenants Edition -,4
+13 Sentinels: Aegis Rim,4
+Xenoblade Chronicles 3,4
+SteamWorld Dig 2,4
+Bayonetta 2,3
+INSIDE,3
+TowerFall,3
+Mark of the Ninja: Remastered,3
+Nuclear Throne,3
+Super Mario Maker 2,2
+Ori and the Blind Forest: Definitive Edition,2
+A Short Hike,2
+Streets of Rage 4: Mr. X Nightmare,2
+The Forgotten City,2
+Cuphead,2
+Divinity: Original Sin II - Definitive Edition,2
+The Legend of Zelda: Link's Awakening,2
+Streets of Rage 4,2
+Deemo,2
+Dead Cells,2
+Okami HD,2
+Persona 5 Royal,2
+Shovel Knight: Treasure Trove,2
+Axiom Verge,2
+SteamWorld Heist: Ultimate Edition,2
+Undertale,1
+Guacamelee! 2,1
+Super Mega Baseball 2: Ultimate Edition,1
+Quake Remastered,1
+DUSK,1
+Teenage Mutant Ninja Turtles: Shredder's Revenge,1
+Sonic Mania Plus,1
+Velocity 2X,1

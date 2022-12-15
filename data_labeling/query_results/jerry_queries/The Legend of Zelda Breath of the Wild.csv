@@ -1,4 +1,4 @@
-,qid,docid,docno,rank,score,query,name,search_score_gt
+,qid,docid,docno,rank,score,query,name,relevance
 0,1,0,d0,0,20.286568057678572,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Breath of the Wild,2
 1,1,79,d79,1,14.568145332145315,The Legend of Zelda Breath of the Wild,The Legend of Zelda: Link's Awakening,1
 2,1,99,d99,2,4.685992037099054,The Legend of Zelda Breath of the Wild,Firewatch,1

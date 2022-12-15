@@ -1,4 +1,4 @@
-,qid,docid,docno,rank,score,query,name,search_score_gt
+,qid,docid,docno,rank,score,query,name,relevance
 0,1,30,d30,0,13.260552759467558,Hollow Knight,Hollow Knight,2
 1,1,24,d24,1,9.039894958269185,Hollow Knight,Shovel Knight: Treasure Trove,1
 2,1,83,d83,2,5.9061982218234865,Hollow Knight,Trine 2: Complete Story,1

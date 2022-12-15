@@ -1,9 +1,9 @@
-,docid,docno,rank,score,query,name,relevance
-0,66,d66,0,0,hardcore,Cuphead in the Delicious Last Course,5
-1,11,d11,0,0,hardcore,Celeste,5
-2,30,d30,12,0,hardcore,Hollow Knight,5
-3,6,d6,15,0,hardcore,Hades,5
-4,34,d34,6,0,hardcore,Dead Cells,5
-5,d61,4,0,hardcore,Monster Hunter Rise,4
-6,d59,6,0,hardcore,Metroid Dread,3
-7,d16,7,0,hardcore,Bayonetta 3
+name,relevance
+Cuphead in the Delicious Last Course,5
+Celeste,5
+Hollow Knight,5
+Hades,5
+Dead Cells,5
+Monster Hunter Rise,4
+Metroid Dread,3
+Bayonetta 3,3

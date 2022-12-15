@@ -1,4 +1,4 @@
-,qid,docid,docno,rank,score,query,name
+,qid,docid,docno,rank,score,query,name,relevance
 0,1,0,d0,0,10.044277818794853,Breath of the Wild,The Legend of Zelda: Breath of the Wild,2
 1,1,99,d99,1,4.685992037099054,Breath of the Wild,Firewatch,1
 2,1,34,d34,2,4.6163732047323265,Breath of the Wild,Dead Cells,1

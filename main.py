@@ -9,20 +9,65 @@ from werkzeug.exceptions import Forbidden
 from forms import NameForm
 import json
 
-#from search_algo_dev 
+import os
 import pandas as pd
 import numpy as np
+import pyterrier as pt
+from collections import Counter
+import fastrank
+from sklearn.ensemble import RandomForestRegressor
+from matplotlib import pyplot as plt
 
 from models import db, login_manager, Game, saved
 from app.oauth import github_blueprint
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
 f = open('recommend_graph.json')
 graph = json.load(f)
 f.close()
 
+if not pt.started():
+    pt.init()
+
+index_dir = "./data_labeling/game_index_dir"
+
 with open('washed_game_data.csv', 'r') as f:
     data_df = pd.read_csv(f)
 data_df["userscore"] = data_df["userscore"].astype(str)
+
+summaries = {}
+for index, row in data_df.iterrows():
+    summaries[row['name']] = row['summary']
+
+docno_col = ['d' + str(i) for i in range(len(data_df))]
+data_df.insert(0, "docno", docno_col)
+
+RANK_CUTOFF = 15
+SEED = 42
+
+if not os.path.exists(os.path.join(index_dir, "data.properties")):
+    indexer = pt.DFIndexer(index_dir, overwrite=True, tokeniser="UTFTokeniser", stopwords='terrier')
+    index_ref = indexer.index(data_df["summary"], data_df["name"], data_df["date"], data_df["genre"], data_df["userscore"], data_df["docno"])
+else:
+    index_ref = pt.IndexRef.of(index_dir + "/data.properties")
+
+index = pt.IndexFactory.of(index_ref)
+
+bm25 = pt.BatchRetrieve(index, wmodel="BM25")
+tfidf = pt.BatchRetrieve(index, wmodel="TF_IDF")
+random_scorer = lambda keyFreq, posting, entryStats, collStats: 0
+rand_retr = pt.BatchRetrieve(index, wmodel=random_scorer)
+
+game_sothis_features = (tfidf % RANK_CUTOFF) >> pt.text.get_text(index, ["name", "date", "genre", "userscore"]) >> (
+        pt.transformer.IdentityTransformer()
+        ** 
+        (pt.apply.doc_score(lambda row: float(row["userscore"])))
+        ** # abstract coordinate match
+        pt.BatchRetrieve(index, wmodel="CoordinateMatch")
+    )
+sname = ["random", "bm25", "tfidf", "game-sothis"]
+fname = ["name", "userscore", "date"]
 
 db_name = 'games.db'
 
@@ -80,10 +125,13 @@ def search_results(form):
         count = db.session.query(saved).filter_by(user_id = uid).count() 
 
     query = form.data['name']
-    #result = game_sothis_features.search(query)
 
-    results = data_df
+    results = game_sothis_features.search(query)
+    results_summary = [summaries[rows['name']] for i, rows in results.iterrows()]
+    results['summary'] = results_summary
     #results = Game.query.filter(Game.name.contains(query)).order_by(Game.id).all()
+
+    print(results)
 
     print(search_results)
     if results.empty:

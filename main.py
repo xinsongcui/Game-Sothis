@@ -9,12 +9,20 @@ from werkzeug.exceptions import Forbidden
 from forms import NameForm
 import json
 
+#from search_algo_dev 
+import pandas as pd
+import numpy as np
+
 from models import db, login_manager, Game, saved
 from app.oauth import github_blueprint
 
 f = open('recommend_graph.json')
 graph = json.load(f)
 f.close()
+
+with open('washed_game_data.csv', 'r') as f:
+    data_df = pd.read_csv(f)
+data_df["userscore"] = data_df["userscore"].astype(str)
 
 db_name = 'games.db'
 
@@ -71,13 +79,18 @@ def search_results(form):
         uid = current_user.id
         count = db.session.query(saved).filter_by(user_id = uid).count() 
 
-    search_string = form.data['name']
-    results = Game.query.filter(Game.name.contains(search_string)).order_by(Game.id).all()
-    if not results:
+    query = form.data['name']
+    #result = game_sothis_features.search(query)
+
+    results = data_df
+    #results = Game.query.filter(Game.name.contains(query)).order_by(Game.id).all()
+
+    print(search_results)
+    if results.empty:
         flash('No results found!')
         return redirect(url_for('index'))
     else:
-        return render_template('results.html', count = count, results=results)
+        return render_template('results.html', form = form, count = count, results=results)
 
 @app.route('/all' , methods=['GET', 'POST'])
 def show_all():

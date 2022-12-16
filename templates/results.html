@@ -26,15 +26,11 @@ ResultGames
       <li class="nav-item">
         <a class="nav-link" href="{{url_for('recommend') }}">Recommendations</a>
       </li>
-      {%endif%} 
-
-      
-
+      {%endif%}   
+      {{ wtf.quick_form(form, extra_classes = "form-inline my-2 my-lg-0") }}
     </ul>
 
-   
-  
-   
+    
     {% if current_user.is_authenticated %}
       <a href="{{url_for('logout')}}" class="btn btn-danger">Logout</a>
     {% else %}
@@ -47,6 +43,7 @@ ResultGames
   </div>
 </nav>
 
+{% if False %}
 <div class="list-group">
   {%for result in results%}
   
@@ -64,6 +61,50 @@ ResultGames
       {%endfor%}
     </div>        
   </a>
+</div>
+{% endif %}
+
+
+{% if False %}
+<div class="list-group">
+  {% for key, result in results.iterrows() %}
+  
+  <a href="https://www.metacritic.com{{result['url']}}"class="list-group-item list-group-item-action flex-column align-items-start">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">{{result['name']}}</h5>
+      <small class="text-muted">{{result['date']}}</small>
+    </div>
+
+      <p class="mb-1">Genre: {{result['genre']}}</p>
+      <p class="mb-1">Metascore: {{result['score']}}</p>
+      {% if current_user.is_authenticated %}
+      <a href="{{url_for('save', name=result['name'])}}" class="btn btn-light">Add to My Games</a> 
+      {% endif %} 
+      {% endfor %}
+    </div>        
+  </a>
+  
+</div>
+{% endif %}
+
+<div class="accordion" id="accordionExample">
+  {% for key, result in results.iterrows() %}
+  <div class="card">
+    <div class="card-header" id="heading{{key}}">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse{{key}}" aria-expanded="false" aria-controls="collapse{{key}}">
+          {{result['name']}}
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapse{{key}}" class="collapse show" aria-labelledby="heading{{key}}" data-parent="#accordionExample">
+      <div class="card-body">
+        {{result['summary']}}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
 </div>
 
 {% endblock %}

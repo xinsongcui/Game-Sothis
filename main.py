@@ -125,20 +125,22 @@ def search_results(form):
         count = db.session.query(saved).filter_by(user_id = uid).count() 
 
     query = form.data['name']
-
-    results = game_sothis_features.search(query)
-    results_summary = [summaries[rows['name']] for i, rows in results.iterrows()]
-    results['summary'] = results_summary
-    #results = Game.query.filter(Game.name.contains(query)).order_by(Game.id).all()
-
-    print(results)
-
-    print(search_results)
-    if results.empty:
-        flash('No results found!')
-        return redirect(url_for('index'))
-    else:
+    try:
+        # code that may cause exception
+        results = game_sothis_features.search(query)
+        results_summary = [summaries[rows['name']] for i, rows in results.iterrows()]
+        results['summary'] = results_summary
+        print(results)
+        if results.empty:
+            flash('No results found!')
+            return redirect(url_for('index'))
         return render_template('results.html', form = form, count = count, results=results)
+
+    except:
+    # code to run when exception occurs
+        flash('No results found!')  
+        return render_template('results.html', form = form, count = count, results=None)
+        return redirect(url_for('index'))
 
 @app.route('/all' , methods=['GET', 'POST'])
 def show_all():

@@ -45,6 +45,7 @@ ResultGames
 
 {% if False %}
 <div class="list-group">
+
   {%for result in results%}
   
   <a href="https://www.metacritic.com{{result.url}}"class="list-group-item list-group-item-action flex-column align-items-start">
@@ -87,6 +88,7 @@ ResultGames
 </div>
 {% endif %}
 
+{% if results is not none %}
 <div class="accordion" id="accordionExample">
   {% for key, result in results.iterrows() %}
   <div class="card">
@@ -106,5 +108,7 @@ ResultGames
   </div>
   {% endfor %}
 </div>
-
+{% else %}
+<p> No results were found!</p>
+{% endif %} 
 {% endblock %}
